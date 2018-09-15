@@ -1,3 +1,24 @@
-#EXTM3U
-#EXTINF:0,Channel 1
-https://www.9xtashan.in/live/
+#EXTINF:-1,beINSport 1 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24154.ts
+#EXTINF:-1,beINSport 2 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24153.ts
+#EXTINF:-1,beINSport 3 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24152.ts
+#EXTINF:-1,beINSport 4 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24151.ts
+#EXTINF:-1,beINSport 5 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24150.ts
+#EXTINF:-1,beINSport 6 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24149.ts
+#EXTINF:-1,beINSport 7 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24148.ts
+#EXTINF:-1,beINSport 8 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24147.ts
+#EXTINF:-1,beINSport 9 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24146.ts
+#EXTINF:-1,beINSport 10 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24145.ts
+#EXTINF:-1,beINSport 11 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24144.ts
+#EXTINF:-1,beINSport 12 ARB
+http://supervip.mine.nu:80/live/claudiosicilia/siciliasicilia/24143.ts
