@@ -1,317 +1,364 @@
-
-#EXTINF:-1,AM:H1
-http://topchantv.net:3456/live/UZ201711/topchantv.net/293.ts
-#EXTINF:-1,RUS: Euronews
-http://topchantv.net:3456/live/UZ201711/topchantv.net/53.ts
-#EXTINF:-1,18+: XXX
-http://topchantv.net:3456/live/UZ201711/topchantv.net/238.ts
-#EXTINF:-1,Pribalt:LNK
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1442.ts
-#EXTINF:-1,LV: TV7
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1220.ts
-#EXTINF:-1,IN-HD:SONY MAX HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1512.ts
-#EXTINF:-1,IN-L: & TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1601.ts
-#EXTINF:-1,IN-L: &PICTURE TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1600.ts
-#EXTINF:-1,IN-L: &PICTURE TV HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1511.ts
-#EXTINF:-1,IN-L: 9X TASHAN
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1599.ts
-#EXTINF:-1,IN-L: AAJTAAK
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1598.ts
-#EXTINF:-1,IN-L: ASIA NET MOVIES
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1596.ts
-#EXTINF:-1,IN-L: ASIANET
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1595.ts
-#EXTINF:-1,IN-L: B4U MOVIES
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1593.ts
-#EXTINF:-1,IN-L: B4U MUSIC
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1592.ts
-#EXTINF:-1,IN-L: COLORS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1590.ts
-#EXTINF:-1,IN-L: COLORS GUJRATI
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1589.ts
-#EXTINF:-1,IN-L: COLORS HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1510.ts
-#EXTINF:-1,IN-L: COLORS KANADA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1588.ts
-#EXTINF:-1,IN-L: COLORS MARATHI
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1587.ts
-#EXTINF:-1,IN-L: DIGITAL PLUS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1575.ts
-#EXTINF:-1,IN-L: DISCOVERY
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1586.ts
-#EXTINF:-1,IN-L: GEMINI COMEDY
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1585.ts
-#EXTINF:-1,IN-L: GEMINI MOVIES
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1584.ts
-#EXTINF:-1,IN-L: GEMINI TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1583.ts
-#EXTINF:-1,IN-L: HUNGAMA TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1581.ts
-#EXTINF:-1,IN-L: INDIAN NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1597.ts
-#EXTINF:-1,IN-L: KTV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1535.ts
-#EXTINF:-1,IN-L: LIFE OK
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1580.ts
-#EXTINF:-1,IN-L: LIFE OK HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1509.ts
-#EXTINF:-1,IN-L: M TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1526.ts
-#EXTINF:-1,IN-L: MAA GOLD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1579.ts
-#EXTINF:-1,IN-L: MAA MOVIES
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1578.ts
-#EXTINF:-1,IN-L: MAA MUSIC
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1577.ts
-#EXTINF:-1,IN-L: MAA TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1576.ts
-#EXTINF:-1,IN-L: Manorama News TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1573.ts
-#EXTINF:-1,IN-L: MOVIES OK
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1571.ts
-#EXTINF:-1,IN-L: MTA URDU
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1570.ts
-#EXTINF:-1,IN-L: MTV INDIA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1525.ts
-#EXTINF:-1,IN-L: MUSIC
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1554.ts
-#EXTINF:-1,IN-L: MUSIC INDIA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1542.ts
-#EXTINF:-1,IN-L: NAT GEO
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1569.ts
-#EXTINF:-1,IN-L: NDTV INDIA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1603.ts
-#EXTINF:-1,IN-L: NDTV PROFIT
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1567.ts
-#EXTINF:-1,IN-L: NEO SPORTS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1566.ts
-#EXTINF:-1,IN-L: News18 Kerala
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1572.ts
-#EXTINF:-1,IN-L: NICK
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1565.ts
-#EXTINF:-1,IN-L: NICK HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1508.ts
-#EXTINF:-1,IN-L: POGO
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1564.ts
-#EXTINF:-1,IN-L: PTC CHAKDE
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1563.ts
-#EXTINF:-1,IN-L: PTC NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1562.ts
-#EXTINF:-1,IN-L: PTC PUNJABI
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1561.ts
-#EXTINF:-1,IN-L: RAJ
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1574.ts
-#EXTINF:-1,IN-L: SAKSHI TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1560.ts
-#EXTINF:-1,IN-L: SANSKAR TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1559.ts
-#EXTINF:-1,IN-L: SHRADHA TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1558.ts
-#EXTINF:-1,IN-L: SONY AATH
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1557.ts
-#EXTINF:-1,IN-L: SONY ESPN
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1556.ts
-#EXTINF:-1,IN-L: SONY MAX
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1555.ts
-#EXTINF:-1,IN-L: SONY PIX
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1552.ts
-#EXTINF:-1,IN-L: SONY PIX HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1507.ts
-#EXTINF:-1,IN-L: SONY SAB
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1553.ts
-#EXTINF:-1,IN-L: SONY SB TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1551.ts
-#EXTINF:-1,IN-L: SONY SIX
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1550.ts
-#EXTINF:-1,IN-L: SONY TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1549.ts
-#EXTINF:-1,IN-L: STAR GOLD HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1506.ts
-#EXTINF:-1,IN-L: STAR MOVIES
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1548.ts
-#EXTINF:-1,IN-L: STAR PARIVAH
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1547.ts
-#EXTINF:-1,IN-L: STAR PLUS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1546.ts
-#EXTINF:-1,IN-L: STAR SPORTS 1
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1545.ts
-#EXTINF:-1,IN-L: Star Sports 1HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1505.ts
-#EXTINF:-1,IN-L: STAR SPORTS 2
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1544.ts
-#EXTINF:-1,IN-L: Star Sports 2HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1504.ts
-#EXTINF:-1,IN-L: STAR VIJAY
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1543.ts
-#EXTINF:-1,IN-L: SUN MUSIC
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1541.ts
-#EXTINF:-1,IN-L: SUN TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1540.ts
-#EXTINF:-1,IN-L: SURYA TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1539.ts
-#EXTINF:-1,IN-L: SUVARNA NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1538.ts
-#EXTINF:-1,IN-L: SUVARNA PLUS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1537.ts
-#EXTINF:-1,IN-L: SUVARNA TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1536.ts
-#EXTINF:-1,IN-L: TEN SPORTS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1534.ts
-#EXTINF:-1,IN-L: TV9 GUJRATI
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1533.ts
-#EXTINF:-1,IN-L: TV9 KANNADA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1532.ts
-#EXTINF:-1,IN-L: TV9 TELUGU
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1531.ts
-#EXTINF:-1,IN-L: UDAYA TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1529.ts
-#EXTINF:-1,IN-L: UTV BINDASS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1528.ts
-#EXTINF:-1,IN-L: UTV MOVIES
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1527.ts
-#EXTINF:-1,IN-L: ZEE BANGLA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1524.ts
-#EXTINF:-1,IN-L: ZEE CINEMA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1523.ts
-#EXTINF:-1,IN-L: ZEE CINEMA HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1503.ts
-#EXTINF:-1,IN-L: ZEE CLASSIC
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1522.ts
-#EXTINF:-1,IN-L: ZEE HARYANA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1521.ts
-#EXTINF:-1,IN-L: ZEE KANNADA
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1520.ts
-#EXTINF:-1,IN-L: ZEE LF
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1519.ts
-#EXTINF:-1,IN-L: ZEE MARATHI
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1518.ts
-#EXTINF:-1,IN-L: ZEE NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1517.ts
-#EXTINF:-1,IN-L: ZEE TALKIES
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1516.ts
-#EXTINF:-1,IN-L: ZEE TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1515.ts
-#EXTINF:-1,IN-L: ZEE ZINDAGI
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1602.ts
-#EXTINF:-1,IN-L: ZOOM TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1514.ts
-#EXTINF:-1,PK | - 24 NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1502.ts
-#EXTINF:-1,PK | 8XM
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1501.ts
-#EXTINF:-1,PK | 92 NEWS HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1500.ts
-#EXTINF:-1,PK | A PLUS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1499.ts
-#EXTINF:-1,PK | AAJ NEWS HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1498.ts
-#EXTINF:-1,PK | ARY MUSIC
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1496.ts
-#EXTINF:-1,PK | ARY QTV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1495.ts
-#EXTINF:-1,PK | ARY ZAUQ
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1494.ts
-#EXTINF:-1,PK | ARY ZINDAGI
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1493.ts
-#EXTINF:-1,PK | ATV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1492.ts
-#EXTINF:-1,PK | BOL NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1491.ts
-#EXTINF:-1,PK | BOL NEWS HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1459.ts
-#EXTINF:-1,PK | CAPITAL TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1490.ts
-#EXTINF:-1,PK | CITY 42 NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1489.ts
-#EXTINF:-1,PK | DAWN NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1488.ts
-#EXTINF:-1,PK | DIN NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1497.ts
-#EXTINF:-1,PK | DUNYA NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1487.ts
-#EXTINF:-1,PK | EXPRESS NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1486.ts
-#EXTINF:-1,PK | FIVE NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1485.ts
-#EXTINF:-1,PK | GEO KAHANI
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1484.ts
-#EXTINF:-1,PK | GEO NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1458.ts
-#EXTINF:-1,PK | GEO TEZZ
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1483.ts
-#EXTINF:-1,PK | GEO TV HD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1482.ts
-#EXTINF:-1,PK | KAY 2
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1481.ts
-#EXTINF:-1,PK | KHYBER TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1480.ts
-#EXTINF:-1,PK | LAHORE NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1479.ts
-#EXTINF:-1,PK | MADANI CHANNEL
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1478.ts
-#EXTINF:-1,PK | MAKKAH LIVE
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1477.ts
-#EXTINF:-1,PK | NEO NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1476.ts
-#EXTINF:-1,PK | NEWS ONE
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1457.ts
-#EXTINF:-1,PK | PAIGHAM TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1475.ts
-#EXTINF:-1,PK | PASHTO 1
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1474.ts
-#EXTINF:-1,PK | PEACE TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1473.ts
-#EXTINF:-1,PK | PTV GLOBAL
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1472.ts
-#EXTINF:-1,PK | PTV HOME
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1471.ts
-#EXTINF:-1,PK | PTV PRIME
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1470.ts
-#EXTINF:-1,PK | PTV SPORTS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1469.ts
-#EXTINF:-1,PK | PTV WORLD
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1468.ts
-#EXTINF:-1,PK | PUNJAB TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1467.ts
-#EXTINF:-1,PK | ROZE NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1466.ts
-#EXTINF:-1,PK | SAMAA NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1465.ts
-#EXTINF:-1,PK | SUCH TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1464.ts
-#EXTINF:-1,PK | TIMES TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1463.ts
-#EXTINF:-1,PK | TV ONE
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1462.ts
-#EXTINF:-1,PK | WAQT NEWS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1461.ts
-#EXTINF:-1,PK | WASEB TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1460.ts
-#EXTINF:-1,CH: CCTV4
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1619.ts
-#EXTINF:-1,CH: CGTN
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1621.ts
-#EXTINF:-1,CH: CGTN_RUS
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1622.ts
-#EXTINF:-1,CH:Chinese Hope TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1613.ts
-#EXTINF:-1,CH:Fengxian TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1615.ts
-#EXTINF:-1,CH:Fujian Children's Channel
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1616.ts
-#EXTINF:-1,CH:Fujian Economic Life
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1617.ts
-#EXTINF:-1,CH:Fujian SPORT
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1620.ts
-#EXTINF:-1,CH:Gansu Children's Channel
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1624.ts
-#EXTINF:-1,CH:Gansu Culture Film & TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1623.ts
-#EXTINF:-1,CH:Jiaxing TV
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1614.ts
-#EXTINF:-1,CH:NEWS CHANEL
-http://topchantv.net:3456/live/UZ201711/topchantv.net/1618.ts
+EXTM3U
+OSN MOVIES ACTION HD  [1280x720]
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/37.ts
+OSN DTX HD  [1280x720]
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/196.ts
+Nat Geo People HD  [1280x720]
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/141.ts
+OSN MOVIES ACTION +2h HD  [1280x720]
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/36.ts
+OSN SERIES COMEDY HD  [1280x720]
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/80.ts
+SP|SP: OSN SPORTS 2 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/33091.ts
+SP|SP: OSN SPORTS 4HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/33089.ts
+SP|SP: OSN SPORTS 1 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/33092.ts
+SP|SP:OSN SPORTS 3 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/33090.ts
+SP|SP:OSN SPORTS CRICKET HD  [720x576]
+http://link.softclientarea.com:2086/live/avni/avni/33088.ts
+IN| TEN/OSN CRICKET  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/37108.ts
+#### OSN #####  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42354.ts
+ OSN Animal Planet HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42526.ts
+ OSN Animal Planet HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42525.ts
+ OSN Animal Planet HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42524.ts
+ OSN Bloomberg  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42443.ts
+ OSN Baby TV  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42467.ts
+ OSN Box Office 2 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42545.ts
+ OSN Box Office 1 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42546.ts
+ OSN Box Office 3 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42544.ts
+ OSN Cinema 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42615.ts
+ OSN Cinema 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42617.ts
+ OSN Cinema 1 2  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42616.ts
+ OSN Cinema 2 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42614.ts
+ OSN CNBC Europe  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42442.ts
+ OSN Crime & Investigation  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42488.ts
+ OSN Discovery Channel  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42513.ts
+ OSN Discovery Channel HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42512.ts
+ OSN Discovery Family HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42507.ts
+ OSN Discovery Family HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42508.ts
+ OSN Discovery Channel FHD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42514.ts
+ OSN Discovery Family HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42506.ts
+ OSN Discovery SC  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42501.ts
+ OSN Discovery IDX HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42502.ts
+ OSN Discovery Family FHD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42509.ts
+ OSN Discovery IDX HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42503.ts
+ OSN Discovery Channel HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42510.ts
+ OSN Discovery Channel HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42511.ts
+ OSN Discovery IDX HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42504.ts
+ OSN Discovery Science HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42499.ts
+ OSN Disney Channel HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42483.ts
+ OSN Disney Junior AR  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42479.ts
+ OSN Disney Junior AR  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42480.ts
+ OSN Disney Channel HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42481.ts
+ OSN Disney XD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42477.ts
+ OSN Discovery Science HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42500.ts
+ OSN Disney Channel HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42482.ts
+ OSN E! HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42540.ts
+ OSN Fashion TV  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42449.ts
+ OSN First HBO HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42535.ts
+ OSN GINX eSports TV  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42452.ts
+ OSN Fine Living 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42485.ts
+ OSN Fox News  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42445.ts
+ OSN E! HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42539.ts
+ OSN H2 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42494.ts
+ OSN First HBO HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42536.ts
+ OSN Fuel TV  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42453.ts
+ OSN FIRST NAME OF HBO HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42538.ts
+ OSN First HBO HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42537.ts
+ OSN Fine Living 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42486.ts
+ OSN History Channel HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42497.ts
+ OSN H2 HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42492.ts
+ OSN H2 HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42493.ts
+ OSN History Channel HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42496.ts
+ OSN Living HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42542.ts
+ OSN Kid Zone TV  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42476.ts
+ OSN Living HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42543.ts
+ OSN Kid Zone TV 1  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42475.ts
+ OSN History Channel HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42495.ts
+ OSN Movies 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42571.ts
+ OSN Movies Action HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42567.ts
+ OSN Motorvision HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42450.ts
+ OSN Movies Action HD 4  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42565.ts
+ OSN Movies Action HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42566.ts
+ OSN Movies Comedy HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42561.ts
+ OSN Movies Comedy HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42560.ts
+ OSN Movies First HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42575.ts
+ OSN Movies Kids HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42557.ts
+ OSN Movies HD 4  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42569.ts
+ OSN Movies Thriller 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42562.ts
+ OSN Movies HD 4  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42572.ts
+ OSN Movies HD 8  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42568.ts
+ OSN Movies HD Thriller  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42564.ts
+ OSN Movies First HD 4  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42573.ts
+ OSN Movies Thriller HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42563.ts
+ OSN Movies HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42570.ts
+ OSN MTV Live HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42441.ts
+ OSN Movies First HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42574.ts
+ OSN Musalsalat HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42632.ts
+ OSN NAT GEO People HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42515.ts
+ OSN Music Now  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42618.ts
+ OSN Nat Geo HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42522.ts
+ OSN Music 24 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42440.ts
+ OSN Nat Geo HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42523.ts
+ OSN Nickelodeon FHD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42473.ts
+ OSN Nat GEO Wild HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42519.ts
+ OSN Nickelodeon FHD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42474.ts
+ OSN Series Comedy HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42529.ts
+ OSN Nick.jr  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42469.ts
+ OSN Nat GEO Wild HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42518.ts
+ OSN NAT GEO People HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42516.ts
+ OSN Nat GEO Wild HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42517.ts
+ OSN News  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42446.ts
+ OSN Nickelodeon FHD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42472.ts
+ OSN Nick Toons HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42478.ts
+ OSN Nat Geo HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42521.ts
+ OSN Series Comedy 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42528.ts
+ OSN Nickelodeon HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42471.ts
+ OSN Nickelodeon Junior AR  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42470.ts
+ OSN Series First HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42531.ts
+ OSN Series First HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42532.ts
+ OSN Series HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42534.ts
+ OSN Series HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42533.ts
+ OSN Series HD Comedy  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42530.ts
+ OSN Sports 3 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42461.ts
+ OSN Sports 5 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42459.ts
+ OSN Sports 4 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42460.ts
+ OSN Sports Action 1 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42463.ts
+ OSN Star Movie HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42556.ts
+ OSN Star Movie HD 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42555.ts
+ OSN Sports Action 2 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42462.ts
+ OSN Star World HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42554.ts
+ OSN Star World HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42553.ts
+ OSN ViVa  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42436.ts
+ OSN TLC HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42491.ts
+ OSN Trace TV HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42439.ts
+ OSN WWE Network HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42456.ts
+ OSN Ten Cricket  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42457.ts
+ OSN TLC HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42490.ts
+ OSN Ya Hala! Cinema HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42633.ts
+ OSN Ya Hala! Al Oula HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42634.ts
+ OSN VH 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42438.ts
+ OSN Ya Hala! HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42635.ts
+ OSN Series HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42344.ts
+ OSN Movies First HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42339.ts
+OSN AD SPORTS 4 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42465.ts
+ OSN Movies Thriller HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42347.ts
+ OSN Movies Comedy HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42345.ts
+OSN AD SPORTS 3 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42466.ts
+ OSN Movies Thriller 2  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42346.ts
+ OSN Movies Action HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42348.ts
+OSN AD SPORTS 5 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42464.ts
+OSN: ART Aflam 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42610.ts
+ OSN Ya Hala! Cinema HD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42353.ts
+OSN Series Channel HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42351.ts
+ OSN Nat Geo HD 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42336.ts
+ OSN Animal Planet HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42338.ts
+OSN: ART Aflam 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42613.ts
+OSN VIP: Music Now  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42337.ts
+OSN: ART Aflam 1 4  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42611.ts
+OSN: ART Aflam 1 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42612.ts
+OSN: ART Aflam 2 4  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42608.ts
+OSN: ART Cinema  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42607.ts
+OSN: ART Aflam 2 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42609.ts
+OSN: ART Cinema 4  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42605.ts
+OSN: ART Cinema 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42606.ts
+OSN: ART Hekayat 2  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42591.ts
+OSN: ART Hekayat 2  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42592.ts
+OSN: ART Hekayat 4  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42590.ts
+OSN: ART Hekayat 2 4  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/42587.ts
+OSN: ART Hekayat 2 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42588.ts
+OSN: ART Hekayat 2  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/42589.ts
+OSN Sports 4HD  [1920x1080]
+http://188.93.238.184:8000/live/ryan/ryan/37799.ts
+OSN Sports 3HD  [1280x720]
+http://188.93.238.184:8000/live/ryan/ryan/37798.ts
+OSN Sports 1HD  [1920x1080]
+http://izgemma.ddns.net:8000/live/chief/chief/37796.ts
+OSN Sports 3HD  [1920x1080]
+http://izgemma.ddns.net:8000/live/chief/chief/37798.ts
+OSN Sports 2HD  [1920x1080]
+http://izgemma.ddns.net:8000/live/chief/chief/37797.ts
+OSN Sports 4HD  [1920x1080]
+http://izgemma.ddns.net:8000/live/chief/chief/37799.ts
+AR OSN OFFICBOX2  [1280x720]
+http://iptv.64tv.info:8000/live/serdar0x/almserx1/549.ts
+ARAB OSN STAR MOVIES  [1280x720]
+http://iptv.64tv.info:8000/live/serdar0x/almserx1/856.ts
+ARAB OSN ON DEMAND 2  [864x480]
+http://iptv.64tv.info:8000/live/serdar0x/almserx1/858.ts
+AR OSN Movie Action  [720x576]
+http://iptv.64tv.info:8000/live/serdar0x/almserx1/552.ts
+ARAB OSN ON DEMAND 1  [544x576]
+http://iptv.64tv.info:8000/live/serdar0x/almserx1/857.ts
+AR| OSN On Demand HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/36690.ts
+AR|OSN AMC  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/36694.ts
+AR|OSN CBC reality  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/36693.ts
+AR|OSN Cinema 1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/36692.ts
+AR|OSN FIRST HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/36691.ts
+AR|OSN ONDEMAND1  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/36688.ts
+AR|OSN Premier 2 HD  [1920x1080]
+http://link.softclientarea.com:2086/live/avni/avni/36687.ts
+AR|OSN STAR WORLD  [1920x1080]
+http://link.softclientarea.com:2086/live/mili/mili/36686.ts
+AR|OSN: Mousalsalat  [1920x1080]
