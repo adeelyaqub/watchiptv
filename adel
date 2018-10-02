@@ -1,0 +1,1571 @@
+#EXTM3U
+#EXTINF:-1,US:CNN
+http://softiptv.xyz:8000/live/mhifed/mhifed/1079.ts
+#EXTINF:-1,US:FXHD
+http://softiptv.xyz:8000/live/mhifed/mhifed/299.ts
+#EXTINF:-1,US: 360 North FHD
+http://tvipbr.net:8080/live/gate/gate/20054.ts
+#EXTINF:-1,US: 5
+http://tvipbr.net:8080/live/gate/gate/20052.ts
+#EXTINF:-1,US: 5 Star Max FHD
+http://tvipbr.net:8080/live/gate/gate/20053.ts
+#EXTINF:-1,US: ABC (Minnesota) HD
+http://tvipbr.net:8080/live/gate/gate/20051.ts
+#EXTINF:-1,US: ABC (West) HD
+http://tvipbr.net:8080/live/gate/gate/20050.ts
+#EXTINF:-1,US: ABC 10 (Sacramento) HD
+http://tvipbr.net:8080/live/gate/gate/20024.ts
+#EXTINF:-1,US: ABC 10 (San Diego) HD
+http://tvipbr.net:8080/live/gate/gate/20023.ts
+#EXTINF:-1,US: ABC 11 (Raleigh) HD
+http://tvipbr.net:8080/live/gate/gate/20022.ts
+#EXTINF:-1,US: ABC 12 (Milwaukee) HD
+http://tvipbr.net:8080/live/gate/gate/20021.ts
+#EXTINF:-1,US: ABC 12 (San Antonio) HD
+http://tvipbr.net:8080/live/gate/gate/20020.ts
+#EXTINF:-1,US: ABC 13 (Houston) HD
+http://tvipbr.net:8080/live/gate/gate/20019.ts
+#EXTINF:-1,US: ABC 15 (Phoenix) HD
+http://tvipbr.net:8080/live/gate/gate/20018.ts
+#EXTINF:-1,US: ABC 2 (Atlanta) HD
+http://tvipbr.net:8080/live/gate/gate/20049.ts
+#EXTINF:-1,US: ABC 2 (Baltimore) HD
+http://tvipbr.net:8080/live/gate/gate/20048.ts
+#EXTINF:-1,US: ABC 2 (Nashville) HD
+http://tvipbr.net:8080/live/gate/gate/20047.ts
+#EXTINF:-1,US: ABC 27 TALLAHASSEE (FL)
+http://tvipbr.net:8080/live/gate/gate/20017.ts
+#EXTINF:-1,US: ABC 28 (Tampa) HD
+http://tvipbr.net:8080/live/gate/gate/20016.ts
+#EXTINF:-1,US: ABC 28 KAMC TX Lubbock
+http://tvipbr.net:8080/live/gate/gate/20015.ts
+#EXTINF:-1,US: ABC 30 (Fresno) HD
+http://tvipbr.net:8080/live/gate/gate/20014.ts
+#EXTINF:-1,US: ABC 4 (Salt Lake City) HD
+http://tvipbr.net:8080/live/gate/gate/20046.ts
+#EXTINF:-1,US: ABC 4 (Salt Lake) HD
+http://tvipbr.net:8080/live/gate/gate/20045.ts
+#EXTINF:-1,US: ABC 5 (Boston) HD
+http://tvipbr.net:8080/live/gate/gate/20044.ts
+#EXTINF:-1,US: ABC 5 (Minnesota) HD
+http://tvipbr.net:8080/live/gate/gate/20043.ts
+#EXTINF:-1,US: ABC 6 (Columbus) HD
+http://tvipbr.net:8080/live/gate/gate/20042.ts
+#EXTINF:-1,US: ABC 6 (Indiana) HD
+http://tvipbr.net:8080/live/gate/gate/20041.ts
+#EXTINF:-1,US: ABC 6 (NJ/PA) FHD
+http://tvipbr.net:8080/live/gate/gate/20040.ts
+#EXTINF:-1,US: ABC 6 (Philadelphia) HD
+http://tvipbr.net:8080/live/gate/gate/20039.ts
+#EXTINF:-1,US: ABC 7 (Bay Area) HD
+http://tvipbr.net:8080/live/gate/gate/20038.ts
+#EXTINF:-1,US: ABC 7 (Chicago) HD
+http://tvipbr.net:8080/live/gate/gate/20037.ts
+#EXTINF:-1,US: ABC 7 (Denver) HD
+http://tvipbr.net:8080/live/gate/gate/20036.ts
+#EXTINF:-1,US: ABC 7 (Detroit) HD
+http://tvipbr.net:8080/live/gate/gate/20035.ts
+#EXTINF:-1,US: ABC 7 (Los Angeles) HD
+http://tvipbr.net:8080/live/gate/gate/20034.ts
+#EXTINF:-1,US: ABC 7 (NYC) HD
+http://tvipbr.net:8080/live/gate/gate/20033.ts
+#EXTINF:-1,US: ABC 7 (West) HD
+http://tvipbr.net:8080/live/gate/gate/20032.ts
+#EXTINF:-1,US: ABC 7 WWSB FL Sarasota HD
+http://tvipbr.net:8080/live/gate/gate/20031.ts
+#EXTINF:-1,US: ABC 8 (Dallas) HD
+http://tvipbr.net:8080/live/gate/gate/20030.ts
+#EXTINF:-1,US: ABC 8 (Hartford) HD
+http://tvipbr.net:8080/live/gate/gate/20029.ts
+#EXTINF:-1,US: ABC 8 (Pittsburgh) HD
+http://tvipbr.net:8080/live/gate/gate/20028.ts
+#EXTINF:-1,US: ABC 9 (Charlotte) HD
+http://tvipbr.net:8080/live/gate/gate/20027.ts
+#EXTINF:-1,US: ABC 9 (Orlando) HD
+http://tvipbr.net:8080/live/gate/gate/20026.ts
+#EXTINF:-1,US: ABC Big 5 Networks FHD
+http://tvipbr.net:8080/live/gate/gate/20013.ts
+#EXTINF:-1,US: ABC FAMILY
+http://tvipbr.net:8080/live/gate/gate/20012.ts
+#EXTINF:-1,US: ABC Family Spark
+http://tvipbr.net:8080/live/gate/gate/20011.ts
+#EXTINF:-1,US: ABC Los Angeles FHD
+http://tvipbr.net:8080/live/gate/gate/20010.ts
+#EXTINF:-1,US: ABC Spark
+http://tvipbr.net:8080/live/gate/gate/20009.ts
+#EXTINF:-1,US: ACTION MAX HD
+http://tvipbr.net:8080/live/gate/gate/20008.ts
+#EXTINF:-1,US: AFN MOVIE HD
+http://tvipbr.net:8080/live/gate/gate/20006.ts
+#EXTINF:-1,US: AFN NEWS HD
+http://tvipbr.net:8080/live/gate/gate/20005.ts
+#EXTINF:-1,US: AFN PRIME ATLANTIC
+http://tvipbr.net:8080/live/gate/gate/20004.ts
+#EXTINF:-1,US: AFN Prime Pacific
+http://tvipbr.net:8080/live/gate/gate/20003.ts
+#EXTINF:-1,US: AFN SPECTRUM HD
+http://tvipbr.net:8080/live/gate/gate/20002.ts
+#EXTINF:-1,US: AFN Sports 1 HD
+http://tvipbr.net:8080/live/gate/gate/20001.ts
+#EXTINF:-1,US: AFN Sports 2 HD
+http://tvipbr.net:8080/live/gate/gate/20000.ts
+#EXTINF:-1,US: AFN Sports HD
+http://tvipbr.net:8080/live/gate/gate/19999.ts
+#EXTINF:-1,US: Al Jazeera
+http://tvipbr.net:8080/live/gate/gate/19992.ts
+#EXTINF:-1,US: AMERICAN DAD 24/7
+http://tvipbr.net:8080/live/gate/gate/19998.ts
+#EXTINF:-1,US: AMERICAN GOD 24/7
+http://tvipbr.net:8080/live/gate/gate/19997.ts
+#EXTINF:-1,US: AMERICAN HERO FHD
+http://tvipbr.net:8080/live/gate/gate/19996.ts
+#EXTINF:-1,US: AMG TV
+http://tvipbr.net:8080/live/gate/gate/19995.ts
+#EXTINF:-1,US: ANIMAL PLANET (East) HD
+http://tvipbr.net:8080/live/gate/gate/19994.ts
+#EXTINF:-1,US: Astro Super Sport 1
+http://tvipbr.net:8080/live/gate/gate/19991.ts
+#EXTINF:-1,US: Atlanta Channel
+http://tvipbr.net:8080/live/gate/gate/19989.ts
+#EXTINF:-1,US: AXS TV
+http://tvipbr.net:8080/live/gate/gate/19993.ts
+#EXTINF:-1,US: BABY TV HD
+http://tvipbr.net:8080/live/gate/gate/19988.ts
+#EXTINF:-1,US: BBC ONE HD
+http://tvipbr.net:8080/live/gate/gate/19987.ts
+#EXTINF:-1,US: BBC WORLD NEWS
+http://tvipbr.net:8080/live/gate/gate/19986.ts
+#EXTINF:-1,US: Beach TV - Panama City
+http://tvipbr.net:8080/live/gate/gate/19973.ts
+#EXTINF:-1,US: Beach TV - Pawleys Island
+http://tvipbr.net:8080/live/gate/gate/19972.ts
+#EXTINF:-1,US: beIN Sports  HD
+http://tvipbr.net:8080/live/gate/gate/19329.ts
+#EXTINF:-1,US: beIN Sports 8 HD
+http://tvipbr.net:8080/live/gate/gate/19334.ts
+#EXTINF:-1,US: beIN Sports HD 2
+http://tvipbr.net:8080/live/gate/gate/19333.ts
+#EXTINF:-1,US: beIN Sports HD 4
+http://tvipbr.net:8080/live/gate/gate/19332.ts
+#EXTINF:-1,US: beIN Sports HD 7
+http://tvipbr.net:8080/live/gate/gate/19331.ts
+#EXTINF:-1,US: BET (East) FHD
+http://tvipbr.net:8080/live/gate/gate/19985.ts
+#EXTINF:-1,US: BET (West) HD
+http://tvipbr.net:8080/live/gate/gate/19984.ts
+#EXTINF:-1,US: BET Entertainment
+http://tvipbr.net:8080/live/gate/gate/19983.ts
+#EXTINF:-1,US: BET HER FHD
+http://tvipbr.net:8080/live/gate/gate/19982.ts
+#EXTINF:-1,US: BET INTERNATIONAL HD
+http://tvipbr.net:8080/live/gate/gate/19981.ts
+#EXTINF:-1,US: BIBLE EXPLORE HD
+http://tvipbr.net:8080/live/gate/gate/19980.ts
+#EXTINF:-1,US: Biz TV
+http://tvipbr.net:8080/live/gate/gate/19971.ts
+#EXTINF:-1,US: BOX OFFICE MOVIES
+http://tvipbr.net:8080/live/gate/gate/19979.ts
+#EXTINF:-1,US: BRAVO (West) HD
+http://tvipbr.net:8080/live/gate/gate/19978.ts
+#EXTINF:-1,US: BTN HD
+http://tvipbr.net:8080/live/gate/gate/19977.ts
+#EXTINF:-1,US: BTN Sport HD
+http://tvipbr.net:8080/live/gate/gate/19976.ts
+#EXTINF:-1,US: BYU Sports TV HD
+http://tvipbr.net:8080/live/gate/gate/19975.ts
+#EXTINF:-1,US: BYU TV HD
+http://tvipbr.net:8080/live/gate/gate/19974.ts
+#EXTINF:-1,US: C Toon Kids FHD
+http://tvipbr.net:8080/live/gate/gate/19970.ts
+#EXTINF:-1,US: C-PAC
+http://tvipbr.net:8080/live/gate/gate/19969.ts
+#EXTINF:-1,US: C-SPAN 1 HD
+http://tvipbr.net:8080/live/gate/gate/19968.ts
+#EXTINF:-1,US: C-SPAN 3 HD
+http://tvipbr.net:8080/live/gate/gate/19966.ts
+#EXTINF:-1,US: CALIFORNIA MUSIC CHANNEL
+http://tvipbr.net:8080/live/gate/gate/19965.ts
+#EXTINF:-1,US: CAPITAL TV
+http://tvipbr.net:8080/live/gate/gate/19964.ts
+#EXTINF:-1,US: CARTOON NETWORK (East) HD
+http://tvipbr.net:8080/live/gate/gate/19963.ts
+#EXTINF:-1,US: CATHOLIC TV HD
+http://tvipbr.net:8080/live/gate/gate/19962.ts
+#EXTINF:-1,US: CBCS News
+http://tvipbr.net:8080/live/gate/gate/19961.ts
+#EXTINF:-1,US: CBN HD
+http://tvipbr.net:8080/live/gate/gate/19960.ts
+#EXTINF:-1,US: CBN News
+http://tvipbr.net:8080/live/gate/gate/19959.ts
+#EXTINF:-1,US: CBS - Big 5 Networks HD
+http://tvipbr.net:8080/live/gate/gate/19955.ts
+#EXTINF:-1,US: CBS (Columbus) HD
+http://tvipbr.net:8080/live/gate/gate/19958.ts
+#EXTINF:-1,US: CBS (Dallas) HD
+http://tvipbr.net:8080/live/gate/gate/19957.ts
+#EXTINF:-1,US: CBS (NY) FHD
+http://tvipbr.net:8080/live/gate/gate/19956.ts
+#EXTINF:-1,US: CBS 10 (Tampa) HD
+http://tvipbr.net:8080/live/gate/gate/19954.ts
+#EXTINF:-1,US: CBS 11 (Dallas) HD
+http://tvipbr.net:8080/live/gate/gate/19953.ts
+#EXTINF:-1,US: CBS 11 (Houston) HD
+http://tvipbr.net:8080/live/gate/gate/19952.ts
+#EXTINF:-1,US: CBS 12 (Cincinatti) HD
+http://tvipbr.net:8080/live/gate/gate/19951.ts
+#EXTINF:-1,US: CBS 13 (Baltimore) HD
+http://tvipbr.net:8080/live/gate/gate/19950.ts
+#EXTINF:-1,US: CBS 13 (Sacramento) HD
+http://tvipbr.net:8080/live/gate/gate/19949.ts
+#EXTINF:-1,US: CBS 19 (Cleveland) HD
+http://tvipbr.net:8080/live/gate/gate/19948.ts
+#EXTINF:-1,US: CBS 2 (Greensboro) HD
+http://tvipbr.net:8080/live/gate/gate/19947.ts
+#EXTINF:-1,US: CBS 2 (Salt Lake City) HD
+http://tvipbr.net:8080/live/gate/gate/19946.ts
+#EXTINF:-1,US: CBS 2/9 (Los Angeles) HD
+http://tvipbr.net:8080/live/gate/gate/19945.ts
+#EXTINF:-1,US: CBS 21 (PA) HD
+http://tvipbr.net:8080/live/gate/gate/19944.ts
+#EXTINF:-1,US: CBS 3 (Charlotte) HD
+http://tvipbr.net:8080/live/gate/gate/19943.ts
+#EXTINF:-1,US: CBS 3 (Connecticut) HD
+http://tvipbr.net:8080/live/gate/gate/19942.ts
+#EXTINF:-1,US: CBS 4 (Boston) FHD
+http://tvipbr.net:8080/live/gate/gate/19940.ts
+#EXTINF:-1,US: CBS 4 (Denver) HD
+http://tvipbr.net:8080/live/gate/gate/19939.ts
+#EXTINF:-1,US: CBS 4 (Miami) HD
+http://tvipbr.net:8080/live/gate/gate/19938.ts
+#EXTINF:-1,US: CBS 4 (Minnesota) HD
+http://tvipbr.net:8080/live/gate/gate/19937.ts
+#EXTINF:-1,US: CBS 4 (St. Louis) HD
+http://tvipbr.net:8080/live/gate/gate/19936.ts
+#EXTINF:-1,US: CBS 46 (Atlanta) HD
+http://tvipbr.net:8080/live/gate/gate/19935.ts
+#EXTINF:-1,US: CBS 47 NEWS JACKSONVILLE (FL)
+http://tvipbr.net:8080/live/gate/gate/19934.ts
+#EXTINF:-1,US: CBS 5 (Kansas City) HD
+http://tvipbr.net:8080/live/gate/gate/19933.ts
+#EXTINF:-1,US: CBS 5 (Nashville) HD
+http://tvipbr.net:8080/live/gate/gate/19932.ts
+#EXTINF:-1,US: CBS 5 (Phoenix) HD
+http://tvipbr.net:8080/live/gate/gate/19931.ts
+#EXTINF:-1,US: CBS 58 (Milwaukee) HD
+http://tvipbr.net:8080/live/gate/gate/19930.ts
+#EXTINF:-1,US: CBS 6 (Orlando) HD
+http://tvipbr.net:8080/live/gate/gate/19929.ts
+#EXTINF:-1,US: CBS 62 (Detroit) HD
+http://tvipbr.net:8080/live/gate/gate/19928.ts
+#EXTINF:-1,US: CBS 7 (Seattle) HD
+http://tvipbr.net:8080/live/gate/gate/19927.ts
+#EXTINF:-1,US: CBS 8 (San Diego) HD
+http://tvipbr.net:8080/live/gate/gate/19926.ts
+#EXTINF:-1,US: CBS 9 (DC) HD
+http://tvipbr.net:8080/live/gate/gate/19925.ts
+#EXTINF:-1,US: CBS ACTION
+http://tvipbr.net:8080/live/gate/gate/19924.ts
+#EXTINF:-1,US: CBS DRAMA
+http://tvipbr.net:8080/live/gate/gate/19923.ts
+#EXTINF:-1,US: CBS FHD
+http://tvipbr.net:8080/live/gate/gate/19922.ts
+#EXTINF:-1,US: CBS Los Angeles FHD
+http://tvipbr.net:8080/live/gate/gate/19921.ts
+#EXTINF:-1,US: CBS NEWS HD
+http://tvipbr.net:8080/live/gate/gate/19920.ts
+#EXTINF:-1,US: CBS REALITY
+http://tvipbr.net:8080/live/gate/gate/19919.ts
+#EXTINF:-1,US: CBS Sports HD
+http://tvipbr.net:8080/live/gate/gate/19918.ts
+#EXTINF:-1,US: CBS West
+http://tvipbr.net:8080/live/gate/gate/19917.ts
+#EXTINF:-1,US: CBSN HD
+http://tvipbr.net:8080/live/gate/gate/19916.ts
+#EXTINF:-1,US: CBSN News HD
+http://tvipbr.net:8080/live/gate/gate/19915.ts
+#EXTINF:-1,US: CGTN America
+http://tvipbr.net:8080/live/gate/gate/19914.ts
+#EXTINF:-1,US: CHEDDAR HD
+http://tvipbr.net:8080/live/gate/gate/19913.ts
+#EXTINF:-1,US: CHRISTIAN TV NETWORK HD
+http://tvipbr.net:8080/live/gate/gate/19912.ts
+#EXTINF:-1,US: Cinema 01 PPV
+http://tvipbr.net:8080/live/gate/gate/19891.ts
+#EXTINF:-1,US: Cinema 02 PPV
+http://tvipbr.net:8080/live/gate/gate/19890.ts
+#EXTINF:-1,US: Cinema 03 PPV
+http://tvipbr.net:8080/live/gate/gate/19889.ts
+#EXTINF:-1,US: Cinema 04 PPV
+http://tvipbr.net:8080/live/gate/gate/19888.ts
+#EXTINF:-1,US: Cinema 05 PPV
+http://tvipbr.net:8080/live/gate/gate/19887.ts
+#EXTINF:-1,US: Cinema 06 PPV
+http://tvipbr.net:8080/live/gate/gate/19886.ts
+#EXTINF:-1,US: Cinema 07 PPV
+http://tvipbr.net:8080/live/gate/gate/19885.ts
+#EXTINF:-1,US: Cinema 08 PPV
+http://tvipbr.net:8080/live/gate/gate/19884.ts
+#EXTINF:-1,US: Cinema 09 PPV
+http://tvipbr.net:8080/live/gate/gate/19883.ts
+#EXTINF:-1,US: Cinema 10 PPV
+http://tvipbr.net:8080/live/gate/gate/19882.ts
+#EXTINF:-1,US: Cinema 11 PPV
+http://tvipbr.net:8080/live/gate/gate/19881.ts
+#EXTINF:-1,US: Cinema 12 PPV
+http://tvipbr.net:8080/live/gate/gate/19880.ts
+#EXTINF:-1,US: Cinema 13 PPV
+http://tvipbr.net:8080/live/gate/gate/19879.ts
+#EXTINF:-1,US: Cinema 14 PPV
+http://tvipbr.net:8080/live/gate/gate/19878.ts
+#EXTINF:-1,US: Cinema 15 PPV
+http://tvipbr.net:8080/live/gate/gate/19877.ts
+#EXTINF:-1,US: Cinema 16 PPV
+http://tvipbr.net:8080/live/gate/gate/19876.ts
+#EXTINF:-1,US: Cinema 17 PPV
+http://tvipbr.net:8080/live/gate/gate/19875.ts
+#EXTINF:-1,US: Cinema 18 PPV
+http://tvipbr.net:8080/live/gate/gate/19874.ts
+#EXTINF:-1,US: Cinema 19 PPV
+http://tvipbr.net:8080/live/gate/gate/19873.ts
+#EXTINF:-1,US: Cinema 20 PPV
+http://tvipbr.net:8080/live/gate/gate/19872.ts
+#EXTINF:-1,US: Cinema 21 PPV
+http://tvipbr.net:8080/live/gate/gate/19871.ts
+#EXTINF:-1,US: Cinema 22 PPV
+http://tvipbr.net:8080/live/gate/gate/19870.ts
+#EXTINF:-1,US: Cinema 23 PPV
+http://tvipbr.net:8080/live/gate/gate/19869.ts
+#EXTINF:-1,US: Cinema 24 PPV
+http://tvipbr.net:8080/live/gate/gate/19868.ts
+#EXTINF:-1,US: Cinema 25 PPV
+http://tvipbr.net:8080/live/gate/gate/19867.ts
+#EXTINF:-1,US: Cinema 26 PPV
+http://tvipbr.net:8080/live/gate/gate/19866.ts
+#EXTINF:-1,US: Cinema 27 PPV
+http://tvipbr.net:8080/live/gate/gate/19865.ts
+#EXTINF:-1,US: Cinema 28 PPV
+http://tvipbr.net:8080/live/gate/gate/19864.ts
+#EXTINF:-1,US: Cinema 29 PPV
+http://tvipbr.net:8080/live/gate/gate/19863.ts
+#EXTINF:-1,US: Cinema 30 PPV
+http://tvipbr.net:8080/live/gate/gate/19862.ts
+#EXTINF:-1,US: Cinema 31 PPV
+http://tvipbr.net:8080/live/gate/gate/19861.ts
+#EXTINF:-1,US: Cinema 32 PPV
+http://tvipbr.net:8080/live/gate/gate/19860.ts
+#EXTINF:-1,US: Cinema 33 PPV
+http://tvipbr.net:8080/live/gate/gate/19859.ts
+#EXTINF:-1,US: Cinema 34 PPV
+http://tvipbr.net:8080/live/gate/gate/19858.ts
+#EXTINF:-1,US: Cinema 35 PPV
+http://tvipbr.net:8080/live/gate/gate/19857.ts
+#EXTINF:-1,US: Cinema 36 PPV
+http://tvipbr.net:8080/live/gate/gate/19856.ts
+#EXTINF:-1,US: Cinema 37 PPV
+http://tvipbr.net:8080/live/gate/gate/19855.ts
+#EXTINF:-1,US: Cinema 38 PPV
+http://tvipbr.net:8080/live/gate/gate/19854.ts
+#EXTINF:-1,US: Cinema 39 PPV
+http://tvipbr.net:8080/live/gate/gate/19853.ts
+#EXTINF:-1,US: Cinema 40 PPV
+http://tvipbr.net:8080/live/gate/gate/19852.ts
+#EXTINF:-1,US: Cinema 41 PPV
+http://tvipbr.net:8080/live/gate/gate/19851.ts
+#EXTINF:-1,US: Cinemax (West) FHD
+http://tvipbr.net:8080/live/gate/gate/19850.ts
+#EXTINF:-1,US: Cinemax 5
+http://tvipbr.net:8080/live/gate/gate/19849.ts
+#EXTINF:-1,US: CINEMAX 5 StarMax HD
+http://tvipbr.net:8080/live/gate/gate/19911.ts
+#EXTINF:-1,US: Cinemax Action 2 HD
+http://tvipbr.net:8080/live/gate/gate/19848.ts
+#EXTINF:-1,US: Cinemax Action East FHD
+http://tvipbr.net:8080/live/gate/gate/19847.ts
+#EXTINF:-1,US: CINEMAX ACTION FHD
+http://tvipbr.net:8080/live/gate/gate/19910.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://tvipbr.net:8080/live/gate/gate/19846.ts
+#EXTINF:-1,US: Cinemax ActionMax East HD
+http://tvipbr.net:8080/live/gate/gate/19845.ts
+#EXTINF:-1,US: Cinemax East FHD
+http://tvipbr.net:8080/live/gate/gate/19844.ts
+#EXTINF:-1,US: Cinemax HD
+http://tvipbr.net:8080/live/gate/gate/19843.ts
+#EXTINF:-1,US: CINEMAX OUTERMAX FHD
+http://tvipbr.net:8080/live/gate/gate/19909.ts
+#EXTINF:-1,US: CINEMAX THRILLER FHD
+http://tvipbr.net:8080/live/gate/gate/19908.ts
+#EXTINF:-1,US: CINEMAXX MORE MAXX
+http://tvipbr.net:8080/live/gate/gate/19907.ts
+#EXTINF:-1,US: CMT - Country Music Television EAST
+http://tvipbr.net:8080/live/gate/gate/19906.ts
+#EXTINF:-1,US: CMT EAST
+http://tvipbr.net:8080/live/gate/gate/19905.ts
+#EXTINF:-1,US: CNBC WORLD HD
+http://tvipbr.net:8080/live/gate/gate/19904.ts
+#EXTINF:-1,US: CNBS HD
+http://tvipbr.net:8080/live/gate/gate/19903.ts
+#EXTINF:-1,US: CNN INTERNATIONAL
+http://tvipbr.net:8080/live/gate/gate/19902.ts
+#EXTINF:-1,US: CNN NEWS FHD
+http://tvipbr.net:8080/live/gate/gate/19901.ts
+#EXTINF:-1,US: CNN US
+http://tvipbr.net:8080/live/gate/gate/19900.ts
+#EXTINF:-1,US: Comedy
+http://tvipbr.net:8080/live/gate/gate/19842.ts
+#EXTINF:-1,US: Comedy Central EAST
+http://tvipbr.net:8080/live/gate/gate/19841.ts
+#EXTINF:-1,US: CORNERSTONE HD
+http://tvipbr.net:8080/live/gate/gate/19899.ts
+#EXTINF:-1,US: COUNTRY MUSIC HD
+http://tvipbr.net:8080/live/gate/gate/19898.ts
+#EXTINF:-1,US: CSN PHILADELPHIA HD
+http://tvipbr.net:8080/live/gate/gate/19897.ts
+#EXTINF:-1,US: CW (Central PA) HD
+http://tvipbr.net:8080/live/gate/gate/19896.ts
+#EXTINF:-1,US: CW (Seattle) HD
+http://tvipbr.net:8080/live/gate/gate/19895.ts
+#EXTINF:-1,US: CW 50 (Chicago) HD
+http://tvipbr.net:8080/live/gate/gate/19894.ts
+#EXTINF:-1,US: CW HD
+http://tvipbr.net:8080/live/gate/gate/19893.ts
+#EXTINF:-1,US: CW Network
+http://tvipbr.net:8080/live/gate/gate/19892.ts
+#EXTINF:-1,US: DAYSTAR FHD
+http://tvipbr.net:8080/live/gate/gate/19839.ts
+#EXTINF:-1,US: Daytona Beach TV
+http://tvipbr.net:8080/live/gate/gate/19829.ts
+#EXTINF:-1,US: DC Eagle Cam
+http://tvipbr.net:8080/live/gate/gate/19838.ts
+#EXTINF:-1,US: DEPORTES HD
+http://tvipbr.net:8080/live/gate/gate/19837.ts
+#EXTINF:-1,US: DISCOVERY CHANNEL WEST HD
+http://tvipbr.net:8080/live/gate/gate/19836.ts
+#EXTINF:-1,US: DISCOVERY ID (East) HD
+http://tvipbr.net:8080/live/gate/gate/19835.ts
+#EXTINF:-1,US: DISCOVERY ID (West) HD
+http://tvipbr.net:8080/live/gate/gate/19834.ts
+#EXTINF:-1,US: Discovery ID Fashion FHD
+http://tvipbr.net:8080/live/gate/gate/19828.ts
+#EXTINF:-1,US: Discovery Showcase HD
+http://tvipbr.net:8080/live/gate/gate/19827.ts
+#EXTINF:-1,US: DISNEY CHANNEL (East) HD
+http://tvipbr.net:8080/live/gate/gate/19833.ts
+#EXTINF:-1,US: Disney Channel (West) HD
+http://tvipbr.net:8080/live/gate/gate/19826.ts
+#EXTINF:-1,US: Disney Junior (West) HD
+http://tvipbr.net:8080/live/gate/gate/19825.ts
+#EXTINF:-1,US: DISNEY XD WEST HD
+http://tvipbr.net:8080/live/gate/gate/19832.ts
+#EXTINF:-1,US: District Knowledge Network
+http://tvipbr.net:8080/live/gate/gate/19824.ts
+#EXTINF:-1,US: District of Columbia Network
+http://tvipbr.net:8080/live/gate/gate/19823.ts
+#EXTINF:-1,US: DIY
+http://tvipbr.net:8080/live/gate/gate/19831.ts
+#EXTINF:-1,US: DTX HD
+http://tvipbr.net:8080/live/gate/gate/19830.ts
+#EXTINF:-1,US: E! ENTERTAINMENT (West) HD
+http://tvipbr.net:8080/live/gate/gate/19822.ts
+#EXTINF:-1,US: E! Entertainment HD
+http://tvipbr.net:8080/live/gate/gate/19821.ts
+#EXTINF:-1,US: El Rey
+http://tvipbr.net:8080/live/gate/gate/19783.ts
+#EXTINF:-1,US: EL REY NETWORK UHD
+http://tvipbr.net:8080/live/gate/gate/19820.ts
+#EXTINF:-1,US: EPIX FHD
+http://tvipbr.net:8080/live/gate/gate/19819.ts
+#EXTINF:-1,US: EPIX HITS HD
+http://tvipbr.net:8080/live/gate/gate/19818.ts
+#EXTINF:-1,US: Escape
+http://tvipbr.net:8080/live/gate/gate/19782.ts
+#EXTINF:-1,US: ESPN  FHD
+http://tvipbr.net:8080/live/gate/gate/19785.ts
+#EXTINF:-1,US: ESPN 1 HD
+http://tvipbr.net:8080/live/gate/gate/19817.ts
+#EXTINF:-1,US: ESPN 3 FHD
+http://tvipbr.net:8080/live/gate/gate/19816.ts
+#EXTINF:-1,US: ESPN 3 TRE
+http://tvipbr.net:8080/live/gate/gate/19815.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 1 HD
+http://tvipbr.net:8080/live/gate/gate/19814.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 2 HD
+http://tvipbr.net:8080/live/gate/gate/19813.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 3 HD
+http://tvipbr.net:8080/live/gate/gate/19812.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 5 HD
+http://tvipbr.net:8080/live/gate/gate/19811.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 6 HD
+http://tvipbr.net:8080/live/gate/gate/19810.ts
+#EXTINF:-1,US: ESPN DEPORTES FHD
+http://tvipbr.net:8080/live/gate/gate/19809.ts
+#EXTINF:-1,US: ESPN Network HD
+http://tvipbr.net:8080/live/gate/gate/19808.ts
+#EXTINF:-1,US: ESPN News US HD
+http://tvipbr.net:8080/live/gate/gate/19807.ts
+#EXTINF:-1,US: ESPN Plus
+http://tvipbr.net:8080/live/gate/gate/19786.ts
+#EXTINF:-1,US: ESPN PLUS 01 HD
+http://tvipbr.net:8080/live/gate/gate/19806.ts
+#EXTINF:-1,US: ESPN PLUS 02 HD
+http://tvipbr.net:8080/live/gate/gate/19805.ts
+#EXTINF:-1,US: ESPN PLUS 03 HD
+http://tvipbr.net:8080/live/gate/gate/19804.ts
+#EXTINF:-1,US: ESPN PLUS 04 HD
+http://tvipbr.net:8080/live/gate/gate/19803.ts
+#EXTINF:-1,US: ESPN PLUS 05 HD
+http://tvipbr.net:8080/live/gate/gate/19802.ts
+#EXTINF:-1,US: ESPN PLUS 06 HD
+http://tvipbr.net:8080/live/gate/gate/19801.ts
+#EXTINF:-1,US: ESPN PLUS 07 HD
+http://tvipbr.net:8080/live/gate/gate/19800.ts
+#EXTINF:-1,US: ESPN PLUS 08 HD
+http://tvipbr.net:8080/live/gate/gate/19799.ts
+#EXTINF:-1,US: ESPN PLUS 09 HD
+http://tvipbr.net:8080/live/gate/gate/19798.ts
+#EXTINF:-1,US: ESPN PLUS 10 HD
+http://tvipbr.net:8080/live/gate/gate/19797.ts
+#EXTINF:-1,US: ESPN PLUS 11 HD
+http://tvipbr.net:8080/live/gate/gate/19796.ts
+#EXTINF:-1,US: ESPN PLUS 12 HD
+http://tvipbr.net:8080/live/gate/gate/19795.ts
+#EXTINF:-1,US: ESPN PLUS 13 HD
+http://tvipbr.net:8080/live/gate/gate/19794.ts
+#EXTINF:-1,US: ESPN PLUS 14 HD
+http://tvipbr.net:8080/live/gate/gate/19793.ts
+#EXTINF:-1,US: ESPN PLUS 15 HD
+http://tvipbr.net:8080/live/gate/gate/19792.ts
+#EXTINF:-1,US: ESPN PLUS 16 HD
+http://tvipbr.net:8080/live/gate/gate/19791.ts
+#EXTINF:-1,US: ESPN PLUS 17 HD
+http://tvipbr.net:8080/live/gate/gate/19790.ts
+#EXTINF:-1,US: ESPN PLUS 18 HD
+http://tvipbr.net:8080/live/gate/gate/19789.ts
+#EXTINF:-1,US: ESPN PLUS 19 HD
+http://tvipbr.net:8080/live/gate/gate/19788.ts
+#EXTINF:-1,US: ESPN PLUS 20 HD
+http://tvipbr.net:8080/live/gate/gate/19787.ts
+#EXTINF:-1,US: EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/19784.ts
+#EXTINF:-1,US: FAITHLIFE HD
+http://tvipbr.net:8080/live/gate/gate/19781.ts
+#EXTINF:-1,US: FAMILY GUY
+http://tvipbr.net:8080/live/gate/gate/19780.ts
+#EXTINF:-1,US: FANTASY NETWORK HD
+http://tvipbr.net:8080/live/gate/gate/19779.ts
+#EXTINF:-1,US: FANTASY SPORTS NETWORK
+http://tvipbr.net:8080/live/gate/gate/19778.ts
+#EXTINF:-1,US: Fashion One
+http://tvipbr.net:8080/live/gate/gate/19726.ts
+#EXTINF:-1,US: Fashion Television
+http://tvipbr.net:8080/live/gate/gate/19725.ts
+#EXTINF:-1,US: FIGHT BOX HD
+http://tvipbr.net:8080/live/gate/gate/19777.ts
+#EXTINF:-1,US: FIGHT Channel HD
+http://tvipbr.net:8080/live/gate/gate/19776.ts
+#EXTINF:-1,US: Fight Network HD
+http://tvipbr.net:8080/live/gate/gate/19724.ts
+#EXTINF:-1,US: Fight Sport 1
+http://tvipbr.net:8080/live/gate/gate/19723.ts
+#EXTINF:-1,US: Fight Sport 2
+http://tvipbr.net:8080/live/gate/gate/19722.ts
+#EXTINF:-1,US: Fight Sports HD
+http://tvipbr.net:8080/live/gate/gate/19721.ts
+#EXTINF:-1,US: FINE LIVING HD
+http://tvipbr.net:8080/live/gate/gate/19775.ts
+#EXTINF:-1,US: Flow Sport
+http://tvipbr.net:8080/live/gate/gate/19720.ts
+#EXTINF:-1,US: Flow Sports Premier
+http://tvipbr.net:8080/live/gate/gate/19719.ts
+#EXTINF:-1,US: FOX 10 Xtra (Phoenix) HD
+http://tvipbr.net:8080/live/gate/gate/19774.ts
+#EXTINF:-1,US: FOX 11 (LA) HD
+http://tvipbr.net:8080/live/gate/gate/19773.ts
+#EXTINF:-1,US: FOX 11 (Los Angeles) HD
+http://tvipbr.net:8080/live/gate/gate/19772.ts
+#EXTINF:-1,US: FOX 13 (Salt Lake City) HD
+http://tvipbr.net:8080/live/gate/gate/19771.ts
+#EXTINF:-1,US: FOX 23 (Oklahoma)
+http://tvipbr.net:8080/live/gate/gate/19770.ts
+#EXTINF:-1,US: FOX 25 (Boston) HD
+http://tvipbr.net:8080/live/gate/gate/19769.ts
+#EXTINF:-1,US: FOX 29 (Philly) HD
+http://tvipbr.net:8080/live/gate/gate/19768.ts
+#EXTINF:-1,US: FOX 29 HD
+http://tvipbr.net:8080/live/gate/gate/19767.ts
+#EXTINF:-1,US: FOX 30 NEWS JACKSONVILLE (FL)
+http://tvipbr.net:8080/live/gate/gate/19766.ts
+#EXTINF:-1,US: FOX 4 (Dallas) HD
+http://tvipbr.net:8080/live/gate/gate/19765.ts
+#EXTINF:-1,US: FOX 4 MORE (Dallas) HD
+http://tvipbr.net:8080/live/gate/gate/19764.ts
+#EXTINF:-1,US: FOX 43 HD
+http://tvipbr.net:8080/live/gate/gate/19763.ts
+#EXTINF:-1,US: FOX 5 (New York) HD
+http://tvipbr.net:8080/live/gate/gate/19762.ts
+#EXTINF:-1,US: Fox 5 News (Washington DC)
+http://tvipbr.net:8080/live/gate/gate/19718.ts
+#EXTINF:-1,US: Fox 59 News
+http://tvipbr.net:8080/live/gate/gate/19717.ts
+#EXTINF:-1,US: FOX 7 (Miami) HD
+http://tvipbr.net:8080/live/gate/gate/19761.ts
+#EXTINF:-1,US: FOX BUSINESS NETWORK HD
+http://tvipbr.net:8080/live/gate/gate/19760.ts
+#EXTINF:-1,US: FOX COLLEGE SPORTS CENTRAL HD
+http://tvipbr.net:8080/live/gate/gate/19758.ts
+#EXTINF:-1,US: FOX HD
+http://tvipbr.net:8080/live/gate/gate/19756.ts
+#EXTINF:-1,US: FOX NY
+http://tvipbr.net:8080/live/gate/gate/19755.ts
+#EXTINF:-1,US: Fox Soccer
+http://tvipbr.net:8080/live/gate/gate/19714.ts
+#EXTINF:-1,US: FOX SOCCER SUN HD
+http://tvipbr.net:8080/live/gate/gate/19754.ts
+#EXTINF:-1,US: FOX Sport San Diego
+http://tvipbr.net:8080/live/gate/gate/19738.ts
+#EXTINF:-1,US: Fox Sports (Arizona) HD
+http://tvipbr.net:8080/live/gate/gate/19713.ts
+#EXTINF:-1,US: Fox Sports (College Central) HD
+http://tvipbr.net:8080/live/gate/gate/19712.ts
+#EXTINF:-1,US: Fox Sports (Detroit) HD
+http://tvipbr.net:8080/live/gate/gate/19711.ts
+#EXTINF:-1,US: Fox Sports (Florida) HD
+http://tvipbr.net:8080/live/gate/gate/19710.ts
+#EXTINF:-1,US: Fox Sports (Mid West) HD
+http://tvipbr.net:8080/live/gate/gate/19709.ts
+#EXTINF:-1,US: Fox Sports (North) HD
+http://tvipbr.net:8080/live/gate/gate/19708.ts
+#EXTINF:-1,US: Fox Sports (Ohio) HD
+http://tvipbr.net:8080/live/gate/gate/19707.ts
+#EXTINF:-1,US: Fox Sports (South East) HD
+http://tvipbr.net:8080/live/gate/gate/19706.ts
+#EXTINF:-1,US: Fox Sports (South West) HD
+http://tvipbr.net:8080/live/gate/gate/19705.ts
+#EXTINF:-1,US: Fox Sports (South) HD
+http://tvipbr.net:8080/live/gate/gate/19704.ts
+#EXTINF:-1,US: Fox Sports (Sun) HD
+http://tvipbr.net:8080/live/gate/gate/19703.ts
+#EXTINF:-1,US: Fox Sports (West) HD
+http://tvipbr.net:8080/live/gate/gate/19702.ts
+#EXTINF:-1,US: Fox Sports (Wisconsin) HD
+http://tvipbr.net:8080/live/gate/gate/19701.ts
+#EXTINF:-1,US: FOX Sports 1 HD
+http://tvipbr.net:8080/live/gate/gate/19737.ts
+#EXTINF:-1,US: Fox SPORTS 25 HD
+http://tvipbr.net:8080/live/gate/gate/19716.ts
+#EXTINF:-1,US: Fox Sports 3
+http://tvipbr.net:8080/live/gate/gate/19700.ts
+#EXTINF:-1,US: Fox Sports 4
+http://tvipbr.net:8080/live/gate/gate/19699.ts
+#EXTINF:-1,US: Fox Sports 5
+http://tvipbr.net:8080/live/gate/gate/19698.ts
+#EXTINF:-1,US: Fox SPORTS 506 HD
+http://tvipbr.net:8080/live/gate/gate/19715.ts
+#EXTINF:-1,US: FOX SPORTS ATLANTA HD
+http://tvipbr.net:8080/live/gate/gate/19753.ts
+#EXTINF:-1,US: FOX SPORTS CAROLINAS HD
+http://tvipbr.net:8080/live/gate/gate/19752.ts
+#EXTINF:-1,US: FOX SPORTS CINCINNATI HD
+http://tvipbr.net:8080/live/gate/gate/19751.ts
+#EXTINF:-1,US: FOX SPORTS CLEVELAND HD
+http://tvipbr.net:8080/live/gate/gate/19750.ts
+#EXTINF:-1,US: FOX SPORTS DEPORTES HD
+http://tvipbr.net:8080/live/gate/gate/19749.ts
+#EXTINF:-1,US: FOX SPORTS HD ASIA
+http://tvipbr.net:8080/live/gate/gate/19748.ts
+#EXTINF:-1,US: FOX SPORTS INDIANA HD
+http://tvipbr.net:8080/live/gate/gate/19747.ts
+#EXTINF:-1,US: FOX SPORTS KANSAS CITY HD
+http://tvipbr.net:8080/live/gate/gate/19746.ts
+#EXTINF:-1,US: FOX SPORTS NET HD
+http://tvipbr.net:8080/live/gate/gate/19745.ts
+#EXTINF:-1,US: FOX SPORTS ONE
+http://tvipbr.net:8080/live/gate/gate/19744.ts
+#EXTINF:-1,US: FOX SPORTS PRIME TICKET HD
+http://tvipbr.net:8080/live/gate/gate/19743.ts
+#EXTINF:-1,US: FOX SPORTS SE HD
+http://tvipbr.net:8080/live/gate/gate/19742.ts
+#EXTINF:-1,US: FOX SPORTS SW HD
+http://tvipbr.net:8080/live/gate/gate/19740.ts
+#EXTINF:-1,US: Fox Sports Tennessee HD
+http://tvipbr.net:8080/live/gate/gate/19697.ts
+#EXTINF:-1,US: FOX SPORTS YES HD
+http://tvipbr.net:8080/live/gate/gate/19739.ts
+#EXTINF:-1,US: FOX West
+http://tvipbr.net:8080/live/gate/gate/19735.ts
+#EXTINF:-1,US: Fox30 Jaxonville
+http://tvipbr.net:8080/live/gate/gate/19696.ts
+#EXTINF:-1,US: Free Speech TV
+http://tvipbr.net:8080/live/gate/gate/19695.ts
+#EXTINF:-1,US: FREEFORM (West) HD
+http://tvipbr.net:8080/live/gate/gate/19734.ts
+#EXTINF:-1,US: FREEFORM EAST
+http://tvipbr.net:8080/live/gate/gate/19733.ts
+#EXTINF:-1,US: FUEL TV HD
+http://tvipbr.net:8080/live/gate/gate/19732.ts
+#EXTINF:-1,US: FX (West) HD
+http://tvipbr.net:8080/live/gate/gate/19731.ts
+#EXTINF:-1,US: FX UHD
+http://tvipbr.net:8080/live/gate/gate/19730.ts
+#EXTINF:-1,US: FXM RETRO
+http://tvipbr.net:8080/live/gate/gate/19729.ts
+#EXTINF:-1,US: FXX (WEST)
+http://tvipbr.net:8080/live/gate/gate/19728.ts
+#EXTINF:-1,US: FYI HD
+http://tvipbr.net:8080/live/gate/gate/19727.ts
+#EXTINF:-1,US: GAME OF THRONES
+http://tvipbr.net:8080/live/gate/gate/19694.ts
+#EXTINF:-1,US: GET TV FHD
+http://tvipbr.net:8080/live/gate/gate/19693.ts
+#EXTINF:-1,US: Global TV BC
+http://tvipbr.net:8080/live/gate/gate/19684.ts
+#EXTINF:-1,US: Global TV Halifax
+http://tvipbr.net:8080/live/gate/gate/19683.ts
+#EXTINF:-1,US: Global TV Toronto
+http://tvipbr.net:8080/live/gate/gate/19682.ts
+#EXTINF:-1,US: GOAL LINE HD
+http://tvipbr.net:8080/live/gate/gate/19692.ts
+#EXTINF:-1,US: GODS LEARNING CHANNEL HD
+http://tvipbr.net:8080/live/gate/gate/19691.ts
+#EXTINF:-1,US: GOL TV HD
+http://tvipbr.net:8080/live/gate/gate/19690.ts
+#EXTINF:-1,US: GOLTV EN
+http://tvipbr.net:8080/live/gate/gate/19689.ts
+#EXTINF:-1,US: GRIT TV HD
+http://tvipbr.net:8080/live/gate/gate/19688.ts
+#EXTINF:-1,US: GRIT TV Movies HD
+http://tvipbr.net:8080/live/gate/gate/19687.ts
+#EXTINF:-1,US: GSN (Game Show Network) FHD
+http://tvipbr.net:8080/live/gate/gate/19686.ts
+#EXTINF:-1,US: GSN FHD
+http://tvipbr.net:8080/live/gate/gate/19685.ts
+#EXTINF:-1,US: H2 HD
+http://tvipbr.net:8080/live/gate/gate/19681.ts
+#EXTINF:-1,US: Hallmark Channe HD
+http://tvipbr.net:8080/live/gate/gate/19662.ts
+#EXTINF:-1,US: HALLMARK DRAMA HD
+http://tvipbr.net:8080/live/gate/gate/19680.ts
+#EXTINF:-1,US: HALLMARK M&M HD
+http://tvipbr.net:8080/live/gate/gate/19679.ts
+#EXTINF:-1,US: HBO (West) HD
+http://tvipbr.net:8080/live/gate/gate/19678.ts
+#EXTINF:-1,US: HBO 2 24/7 HD
+http://tvipbr.net:8080/live/gate/gate/19677.ts
+#EXTINF:-1,US: HBO 2 COMEDY
+http://tvipbr.net:8080/live/gate/gate/19676.ts
+#EXTINF:-1,US: HBO 2 East
+http://tvipbr.net:8080/live/gate/gate/19675.ts
+#EXTINF:-1,US: HBO 2 West FHD
+http://tvipbr.net:8080/live/gate/gate/19674.ts
+#EXTINF:-1,US: HBO East HD
+http://tvipbr.net:8080/live/gate/gate/19673.ts
+#EXTINF:-1,US: HBO SIGNATURE (West) FHD
+http://tvipbr.net:8080/live/gate/gate/19671.ts
+#EXTINF:-1,US: HBO Signature 24/7 HD
+http://tvipbr.net:8080/live/gate/gate/19670.ts
+#EXTINF:-1,US: HDNET MOVIES FHD
+http://tvipbr.net:8080/live/gate/gate/19669.ts
+#EXTINF:-1,US: HEART TV
+http://tvipbr.net:8080/live/gate/gate/19668.ts
+#EXTINF:-1,US: HGTV (East) HD
+http://tvipbr.net:8080/live/gate/gate/19667.ts
+#EXTINF:-1,US: HGTV (East) UHD
+http://tvipbr.net:8080/live/gate/gate/19666.ts
+#EXTINF:-1,US: HGTV (West) HD
+http://tvipbr.net:8080/live/gate/gate/19665.ts
+#EXTINF:-1,US: HIFI HD
+http://tvipbr.net:8080/live/gate/gate/19664.ts
+#EXTINF:-1,US: Hockey
+http://tvipbr.net:8080/live/gate/gate/19661.ts
+#EXTINF:-1,US: Hollywood HD
+http://tvipbr.net:8080/live/gate/gate/19660.ts
+#EXTINF:-1,US: Home&Health
+http://tvipbr.net:8080/live/gate/gate/19659.ts
+#EXTINF:-1,US: HOUSE OF CARDS
+http://tvipbr.net:8080/live/gate/gate/19663.ts
+#EXTINF:-1,US: IFC UHD
+http://tvipbr.net:8080/live/gate/gate/19658.ts
+#EXTINF:-1,US: Independent Film Channel
+http://tvipbr.net:8080/live/gate/gate/19656.ts
+#EXTINF:-1,US: IndiePlex HD
+http://tvipbr.net:8080/live/gate/gate/19655.ts
+#EXTINF:-1,US: InfoWars
+http://tvipbr.net:8080/live/gate/gate/19654.ts
+#EXTINF:-1,US: INSP HD
+http://tvipbr.net:8080/live/gate/gate/19657.ts
+#EXTINF:-1,US: JBTV Music
+http://tvipbr.net:8080/live/gate/gate/19653.ts
+#EXTINF:-1,US: KBMT-TV 12 NEWS BEAUMONT (TX)
+http://tvipbr.net:8080/live/gate/gate/19652.ts
+#EXTINF:-1,US: KBVR TV FHD
+http://tvipbr.net:8080/live/gate/gate/19651.ts
+#EXTINF:-1,US: KCAL 9 LA HD
+http://tvipbr.net:8080/live/gate/gate/19650.ts
+#EXTINF:-1,US: KCAL 9 NEWS LOS ANGELES
+http://tvipbr.net:8080/live/gate/gate/19649.ts
+#EXTINF:-1,US: KEEP IT COUNTRY
+http://tvipbr.net:8080/live/gate/gate/19648.ts
+#EXTINF:-1,US: Key TV HD
+http://tvipbr.net:8080/live/gate/gate/19638.ts
+#EXTINF:-1,US: KIDS READING TV
+http://tvipbr.net:8080/live/gate/gate/19647.ts
+#EXTINF:-1,US: KNTV-TV NBC BAY AREA
+http://tvipbr.net:8080/live/gate/gate/19646.ts
+#EXTINF:-1,US: KNVN ACTION NEWS CHICO
+http://tvipbr.net:8080/live/gate/gate/19645.ts
+#EXTINF:-1,US: KOB 4 NEWS ALBUQUERQUE
+http://tvipbr.net:8080/live/gate/gate/19644.ts
+#EXTINF:-1,US: KPNX 12 NEWS PHOENIX
+http://tvipbr.net:8080/live/gate/gate/19643.ts
+#EXTINF:-1,US: KRBC-TV 9 NBC ABILENE
+http://tvipbr.net:8080/live/gate/gate/19642.ts
+#EXTINF:-1,US: KTVB CHANNEL 7 BOISE
+http://tvipbr.net:8080/live/gate/gate/19641.ts
+#EXTINF:-1,US: KTVU News
+http://tvipbr.net:8080/live/gate/gate/19640.ts
+#EXTINF:-1,US: KTVU PLUS HD
+http://tvipbr.net:8080/live/gate/gate/19639.ts
+#EXTINF:-1,US: Lifetime Movie Network
+http://tvipbr.net:8080/live/gate/gate/19633.ts
+#EXTINF:-1,US: LMN HD
+http://tvipbr.net:8080/live/gate/gate/19637.ts
+#EXTINF:-1,US: LMN HDTV
+http://tvipbr.net:8080/live/gate/gate/19636.ts
+#EXTINF:-1,US: LOGO HD
+http://tvipbr.net:8080/live/gate/gate/19635.ts
+#EXTINF:-1,US: LONGHORN
+http://tvipbr.net:8080/live/gate/gate/19634.ts
+#EXTINF:-1,US: Love Nature
+http://tvipbr.net:8080/live/gate/gate/19632.ts
+#EXTINF:-1,US: M2O Music
+http://tvipbr.net:8080/live/gate/gate/19631.ts
+#EXTINF:-1,US: MADISON SQUARE GARGEN (NY) HD
+http://tvipbr.net:8080/live/gate/gate/19630.ts
+#EXTINF:-1,US: MAVS TV HD
+http://tvipbr.net:8080/live/gate/gate/19629.ts
+#EXTINF:-1,US: Max West
+http://tvipbr.net:8080/live/gate/gate/19616.ts
+#EXTINF:-1,US: MBL Network
+http://tvipbr.net:8080/live/gate/gate/19628.ts
+#EXTINF:-1,US: Mello TV
+http://tvipbr.net:8080/live/gate/gate/19615.ts
+#EXTINF:-1,US: Miami TV
+http://tvipbr.net:8080/live/gate/gate/19614.ts
+#EXTINF:-1,US: MIRACLE CHANNEL HD
+http://tvipbr.net:8080/live/gate/gate/19627.ts
+#EXTINF:-1,US: MISSION TV HD
+http://tvipbr.net:8080/live/gate/gate/19626.ts
+#EXTINF:-1,US: MLB 01 HD
+http://tvipbr.net:8080/live/gate/gate/18913.ts
+#EXTINF:-1,US: MLB 02 HD
+http://tvipbr.net:8080/live/gate/gate/18912.ts
+#EXTINF:-1,US: MLB 03 HD
+http://tvipbr.net:8080/live/gate/gate/18911.ts
+#EXTINF:-1,US: MLB 04 HD
+http://tvipbr.net:8080/live/gate/gate/18910.ts
+#EXTINF:-1,US: MLB 05 HD
+http://tvipbr.net:8080/live/gate/gate/18909.ts
+#EXTINF:-1,US: MLB 06 HD
+http://tvipbr.net:8080/live/gate/gate/18908.ts
+#EXTINF:-1,US: MLB 07 HD
+http://tvipbr.net:8080/live/gate/gate/18907.ts
+#EXTINF:-1,US: MLB 08 HD
+http://tvipbr.net:8080/live/gate/gate/18906.ts
+#EXTINF:-1,US: MLB 09 HD
+http://tvipbr.net:8080/live/gate/gate/18905.ts
+#EXTINF:-1,US: MLB 10 HD
+http://tvipbr.net:8080/live/gate/gate/18904.ts
+#EXTINF:-1,US: MLB 11 HD
+http://tvipbr.net:8080/live/gate/gate/18903.ts
+#EXTINF:-1,US: MLB 12 HD
+http://tvipbr.net:8080/live/gate/gate/18902.ts
+#EXTINF:-1,US: MLB 13 HD
+http://tvipbr.net:8080/live/gate/gate/18901.ts
+#EXTINF:-1,US: MLB 14 HD
+http://tvipbr.net:8080/live/gate/gate/18900.ts
+#EXTINF:-1,US: MLB 17
+http://tvipbr.net:8080/live/gate/gate/18899.ts
+#EXTINF:-1,US: MLB 721 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18898.ts
+#EXTINF:-1,US: MLB 722 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18897.ts
+#EXTINF:-1,US: MLB 723 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18896.ts
+#EXTINF:-1,US: MLB 724 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18895.ts
+#EXTINF:-1,US: MLB 725 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18894.ts
+#EXTINF:-1,US: MLB 726 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18893.ts
+#EXTINF:-1,US: MLB 728 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18892.ts
+#EXTINF:-1,US: MLB 730 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18891.ts
+#EXTINF:-1,US: MLB 731 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18890.ts
+#EXTINF:-1,US: MLB 732 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18889.ts
+#EXTINF:-1,US: MLB 733 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18888.ts
+#EXTINF:-1,US: MLB 734 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18887.ts
+#EXTINF:-1,US: MLB 735 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18886.ts
+#EXTINF:-1,US: MLB 736 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18885.ts
+#EXTINF:-1,US: MLB 737 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18884.ts
+#EXTINF:-1,US: MLB 738 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18883.ts
+#EXTINF:-1,US: MLB 739 EXTRA INNINGS BASEBALL
+http://tvipbr.net:8080/live/gate/gate/18882.ts
+#EXTINF:-1,US: MLB EXTRA INNINGS 1
+http://tvipbr.net:8080/live/gate/gate/18919.ts
+#EXTINF:-1,US: MLB EXTRA INNINGS 2
+http://tvipbr.net:8080/live/gate/gate/18918.ts
+#EXTINF:-1,US: MLB Live HD
+http://tvipbr.net:8080/live/gate/gate/18917.ts
+#EXTINF:-1,US: MLB Network HD
+http://tvipbr.net:8080/live/gate/gate/18916.ts
+#EXTINF:-1,US: MLB Strike One
+http://tvipbr.net:8080/live/gate/gate/18914.ts
+#EXTINF:-1,US: MLB STRIKE ZONE HD
+http://tvipbr.net:8080/live/gate/gate/18915.ts
+#EXTINF:-1,US: MODERN FAMILY
+http://tvipbr.net:8080/live/gate/gate/19625.ts
+#EXTINF:-1,US: MoreMax FHD
+http://tvipbr.net:8080/live/gate/gate/19613.ts
+#EXTINF:-1,US: MovieMax FHD
+http://tvipbr.net:8080/live/gate/gate/19612.ts
+#EXTINF:-1,US: MoviePlex FHD
+http://tvipbr.net:8080/live/gate/gate/19611.ts
+#EXTINF:-1,US: MSG 2 HD
+http://tvipbr.net:8080/live/gate/gate/19624.ts
+#EXTINF:-1,US: MSG HD
+http://tvipbr.net:8080/live/gate/gate/19623.ts
+#EXTINF:-1,US: MSNBC UHD
+http://tvipbr.net:8080/live/gate/gate/19622.ts
+#EXTINF:-1,US: MTV BASE HD
+http://tvipbr.net:8080/live/gate/gate/19621.ts
+#EXTINF:-1,US: MTV LIVE HD
+http://tvipbr.net:8080/live/gate/gate/19620.ts
+#EXTINF:-1,US: MTV U HD
+http://tvipbr.net:8080/live/gate/gate/19619.ts
+#EXTINF:-1,US: Music 24/7 FHD
+http://tvipbr.net:8080/live/gate/gate/19610.ts
+#EXTINF:-1,US: Mute TV
+http://tvipbr.net:8080/live/gate/gate/19609.ts
+#EXTINF:-1,US: MY UTAH HD
+http://tvipbr.net:8080/live/gate/gate/19618.ts
+#EXTINF:-1,US: MY20 (Huston) HD
+http://tvipbr.net:8080/live/gate/gate/19617.ts
+#EXTINF:-1,US: NASA TV HD
+http://tvipbr.net:8080/live/gate/gate/19608.ts
+#EXTINF:-1,US: Nashville News Channel 5
+http://tvipbr.net:8080/live/gate/gate/19504.ts
+#EXTINF:-1,US: NAT GEO (WEST) HD
+http://tvipbr.net:8080/live/gate/gate/19607.ts
+#EXTINF:-1,US: NBA LEAGUE PASS
+http://tvipbr.net:8080/live/gate/gate/19606.ts
+#EXTINF:-1,US: NBC - Big 5 Networks FHD
+http://tvipbr.net:8080/live/gate/gate/19602.ts
+#EXTINF:-1,US: NBC (East) FHD
+http://tvipbr.net:8080/live/gate/gate/19605.ts
+#EXTINF:-1,US: NBC (NY) FHD
+http://tvipbr.net:8080/live/gate/gate/19604.ts
+#EXTINF:-1,US: NBC (West) HD
+http://tvipbr.net:8080/live/gate/gate/19603.ts
+#EXTINF:-1,US: NBC 10 News (Philadelphia)
+http://tvipbr.net:8080/live/gate/gate/19601.ts
+#EXTINF:-1,US: NBC 11 (Minnesota) HD
+http://tvipbr.net:8080/live/gate/gate/19600.ts
+#EXTINF:-1,US: NBC 11 NEWS (BAY AREA)
+http://tvipbr.net:8080/live/gate/gate/19599.ts
+#EXTINF:-1,US: NBC 12 (Jacksonville) HD
+http://tvipbr.net:8080/live/gate/gate/19598.ts
+#EXTINF:-1,US: NBC 12 News (WWBT-TV)
+http://tvipbr.net:8080/live/gate/gate/19597.ts
+#EXTINF:-1,US: NBC 2 (Houston) HD
+http://tvipbr.net:8080/live/gate/gate/19596.ts
+#EXTINF:-1,US: NBC 29 (WVIR-TV)
+http://tvipbr.net:8080/live/gate/gate/19595.ts
+#EXTINF:-1,US: NBC 3 (Cleveland) HD
+http://tvipbr.net:8080/live/gate/gate/19594.ts
+#EXTINF:-1,US: NBC 3 (Sacramento) HD
+http://tvipbr.net:8080/live/gate/gate/19593.ts
+#EXTINF:-1,US: NBC 4 News (KNBC-TV)
+http://tvipbr.net:8080/live/gate/gate/19592.ts
+#EXTINF:-1,US: NBC 41 (Kansas) HD
+http://tvipbr.net:8080/live/gate/gate/19591.ts
+#EXTINF:-1,US: NBC 5 (Dallas) HD
+http://tvipbr.net:8080/live/gate/gate/19590.ts
+#EXTINF:-1,US: NBC 5 (NY) HD
+http://tvipbr.net:8080/live/gate/gate/19589.ts
+#EXTINF:-1,US: NBC 5 (St. Louis) HD
+http://tvipbr.net:8080/live/gate/gate/19588.ts
+#EXTINF:-1,US: NBC 5 News (Chicago)
+http://tvipbr.net:8080/live/gate/gate/19587.ts
+#EXTINF:-1,US: NBC 7 (San Diego) HD
+http://tvipbr.net:8080/live/gate/gate/19586.ts
+#EXTINF:-1,US: NBC 8 (Portland) HD
+http://tvipbr.net:8080/live/gate/gate/19585.ts
+#EXTINF:-1,US: NBC 8 (WGAL) HD
+http://tvipbr.net:8080/live/gate/gate/19584.ts
+#EXTINF:-1,US: NBC 9 (Denver) HD
+http://tvipbr.net:8080/live/gate/gate/19583.ts
+#EXTINF:-1,US: NBC Atlanta
+http://tvipbr.net:8080/live/gate/gate/19582.ts
+#EXTINF:-1,US: NBC Baltimore
+http://tvipbr.net:8080/live/gate/gate/19581.ts
+#EXTINF:-1,US: NBC Boston
+http://tvipbr.net:8080/live/gate/gate/19580.ts
+#EXTINF:-1,US: NBC Buffalo
+http://tvipbr.net:8080/live/gate/gate/19579.ts
+#EXTINF:-1,US: NBC Charlotte
+http://tvipbr.net:8080/live/gate/gate/19578.ts
+#EXTINF:-1,US: NBC Chicago
+http://tvipbr.net:8080/live/gate/gate/19577.ts
+#EXTINF:-1,US: NBC Cincinnati
+http://tvipbr.net:8080/live/gate/gate/19576.ts
+#EXTINF:-1,US: NBC Cleveland
+http://tvipbr.net:8080/live/gate/gate/19575.ts
+#EXTINF:-1,US: NBC Dallas
+http://tvipbr.net:8080/live/gate/gate/19574.ts
+#EXTINF:-1,US: NBC Denver
+http://tvipbr.net:8080/live/gate/gate/19573.ts
+#EXTINF:-1,US: NBC Detroit
+http://tvipbr.net:8080/live/gate/gate/19572.ts
+#EXTINF:-1,US: NBC EPL 1 FHD
+http://tvipbr.net:8080/live/gate/gate/19571.ts
+#EXTINF:-1,US: NBC EPL EFL 1
+http://tvipbr.net:8080/live/gate/gate/19570.ts
+#EXTINF:-1,US: NBC EPL EFL 2
+http://tvipbr.net:8080/live/gate/gate/19569.ts
+#EXTINF:-1,US: NBC EPL EFL 3
+http://tvipbr.net:8080/live/gate/gate/19568.ts
+#EXTINF:-1,US: NBC EPL EFL 4
+http://tvipbr.net:8080/live/gate/gate/19567.ts
+#EXTINF:-1,US: NBC EPL EFL 5
+http://tvipbr.net:8080/live/gate/gate/19566.ts
+#EXTINF:-1,US: NBC EPL EFL 6
+http://tvipbr.net:8080/live/gate/gate/19565.ts
+#EXTINF:-1,US: NBC EPL NBCSN EPL Live Match 1
+http://tvipbr.net:8080/live/gate/gate/19564.ts
+#EXTINF:-1,US: NBC EPL NBCSN EPL Live Match 2
+http://tvipbr.net:8080/live/gate/gate/19563.ts
+#EXTINF:-1,US: NBC EPL NBCSN EPL Live Match 3
+http://tvipbr.net:8080/live/gate/gate/19562.ts
+#EXTINF:-1,US: NBC GOLF CHANNEL FHD
+http://tvipbr.net:8080/live/gate/gate/18881.ts
+#EXTINF:-1,US: NBC Green Bay
+http://tvipbr.net:8080/live/gate/gate/19561.ts
+#EXTINF:-1,US: NBC Hartford
+http://tvipbr.net:8080/live/gate/gate/19559.ts
+#EXTINF:-1,US: NBC HD
+http://tvipbr.net:8080/live/gate/gate/19560.ts
+#EXTINF:-1,US: NBC Houston
+http://tvipbr.net:8080/live/gate/gate/19558.ts
+#EXTINF:-1,US: NBC Indianapolis
+http://tvipbr.net:8080/live/gate/gate/19557.ts
+#EXTINF:-1,US: NBC Jacksonville
+http://tvipbr.net:8080/live/gate/gate/19556.ts
+#EXTINF:-1,US: NBC K5 (Seattle) HD
+http://tvipbr.net:8080/live/gate/gate/19555.ts
+#EXTINF:-1,US: NBC Kansas City
+http://tvipbr.net:8080/live/gate/gate/19554.ts
+#EXTINF:-1,US: NBC Los Angeles FHD
+http://tvipbr.net:8080/live/gate/gate/19553.ts
+#EXTINF:-1,US: NBC Miami
+http://tvipbr.net:8080/live/gate/gate/19552.ts
+#EXTINF:-1,US: NBC Milwaukee
+http://tvipbr.net:8080/live/gate/gate/19551.ts
+#EXTINF:-1,US: NBC Minneapolis
+http://tvipbr.net:8080/live/gate/gate/19550.ts
+#EXTINF:-1,US: NBC Nashville
+http://tvipbr.net:8080/live/gate/gate/19549.ts
+#EXTINF:-1,US: NBC New Orleans
+http://tvipbr.net:8080/live/gate/gate/19548.ts
+#EXTINF:-1,US: NBC New York
+http://tvipbr.net:8080/live/gate/gate/19547.ts
+#EXTINF:-1,US: NBC News
+http://tvipbr.net:8080/live/gate/gate/19546.ts
+#EXTINF:-1,US: NBC News 13 (Albany)
+http://tvipbr.net:8080/live/gate/gate/19545.ts
+#EXTINF:-1,US: NBC News Channel 13 (WNYT-TV)
+http://tvipbr.net:8080/live/gate/gate/19544.ts
+#EXTINF:-1,US: NBC Orlando
+http://tvipbr.net:8080/live/gate/gate/19543.ts
+#EXTINF:-1,US: NBC Philadelphia
+http://tvipbr.net:8080/live/gate/gate/19542.ts
+#EXTINF:-1,US: NBC Phoenix
+http://tvipbr.net:8080/live/gate/gate/19541.ts
+#EXTINF:-1,US: NBC Pittsburgh
+http://tvipbr.net:8080/live/gate/gate/19540.ts
+#EXTINF:-1,US: NBC Portland
+http://tvipbr.net:8080/live/gate/gate/19539.ts
+#EXTINF:-1,US: NBC Raleigh
+http://tvipbr.net:8080/live/gate/gate/19538.ts
+#EXTINF:-1,US: NBC Sacramento
+http://tvipbr.net:8080/live/gate/gate/19531.ts
+#EXTINF:-1,US: NBC Salt Lake City
+http://tvipbr.net:8080/live/gate/gate/19530.ts
+#EXTINF:-1,US: NBC San Francisco
+http://tvipbr.net:8080/live/gate/gate/19528.ts
+#EXTINF:-1,US: NBC Seattle
+http://tvipbr.net:8080/live/gate/gate/19527.ts
+#EXTINF:-1,US: NBC SPORTS 2 HD (LIVE EPL)
+http://tvipbr.net:8080/live/gate/gate/19537.ts
+#EXTINF:-1,US: NBC SPORTS 3 HD (LIVE EPL)
+http://tvipbr.net:8080/live/gate/gate/19536.ts
+#EXTINF:-1,US: NBC SPORTS 4 HD (LIVE EPL)
+http://tvipbr.net:8080/live/gate/gate/19535.ts
+#EXTINF:-1,US: NBC SPORTS 5 HD (LIVE EPL)
+http://tvipbr.net:8080/live/gate/gate/19534.ts
+#EXTINF:-1,US: NBC SPORTS HD
+http://tvipbr.net:8080/live/gate/gate/19533.ts
+#EXTINF:-1,US: NBC Sports HD (Premier League)
+http://tvipbr.net:8080/live/gate/gate/19526.ts
+#EXTINF:-1,US: NBC SPORTS PHILLY HD
+http://tvipbr.net:8080/live/gate/gate/19532.ts
+#EXTINF:-1,US: NBC St Louis
+http://tvipbr.net:8080/live/gate/gate/19525.ts
+#EXTINF:-1,US: NBC Telemundo
+http://tvipbr.net:8080/live/gate/gate/19524.ts
+#EXTINF:-1,US: NBC Washington
+http://tvipbr.net:8080/live/gate/gate/19523.ts
+#EXTINF:-1,US: NBC4 New York News (WNBC-TV)
+http://tvipbr.net:8080/live/gate/gate/19522.ts
+#EXTINF:-1,US: NBC5 News (WMAQ-TV)
+http://tvipbr.net:8080/live/gate/gate/19521.ts
+#EXTINF:-1,US: NBCSN (Bay Area) HD
+http://tvipbr.net:8080/live/gate/gate/19520.ts
+#EXTINF:-1,US: NBCSN (Boston) HD
+http://tvipbr.net:8080/live/gate/gate/19519.ts
+#EXTINF:-1,US: NBCSN (Chicago) HD
+http://tvipbr.net:8080/live/gate/gate/19518.ts
+#EXTINF:-1,US: NBCSN (North West) HD
+http://tvipbr.net:8080/live/gate/gate/19517.ts
+#EXTINF:-1,US: NBCSN (Philly) HD
+http://tvipbr.net:8080/live/gate/gate/19516.ts
+#EXTINF:-1,US: NBCSN California HD
+http://tvipbr.net:8080/live/gate/gate/19515.ts
+#EXTINF:-1,US: NBCSN FHD
+http://tvipbr.net:8080/live/gate/gate/19514.ts
+#EXTINF:-1,US: NBCSN WASHINGTON HD
+http://tvipbr.net:8080/live/gate/gate/19512.ts
+#EXTINF:-1,US: NEW ENGLAND SPORTS NETWORK HD
+http://tvipbr.net:8080/live/gate/gate/19511.ts
+#EXTINF:-1,US: NEWS 12 (Bronx) HD
+http://tvipbr.net:8080/live/gate/gate/19509.ts
+#EXTINF:-1,US: NEWS 12 (BROOKLYN) HD
+http://tvipbr.net:8080/live/gate/gate/19510.ts
+#EXTINF:-1,US: NEWS 12 (Connecticut)
+http://tvipbr.net:8080/live/gate/gate/19508.ts
+#EXTINF:-1,US: NEWS 12 (HUDSON VALLEY)
+http://tvipbr.net:8080/live/gate/gate/19507.ts
+#EXTINF:-1,US: NEWS 12 (THE BRONX)
+http://tvipbr.net:8080/live/gate/gate/19506.ts
+#EXTINF:-1,US: NEWS 12 (Westchester)
+http://tvipbr.net:8080/live/gate/gate/19505.ts
+#EXTINF:-1,US: News Channel 12 KTVZ
+http://tvipbr.net:8080/live/gate/gate/19503.ts
+#EXTINF:-1,US: News West 9 KWES
+http://tvipbr.net:8080/live/gate/gate/19502.ts
+#EXTINF:-1,US: News4 (WRC-TV)
+http://tvipbr.net:8080/live/gate/gate/19501.ts
+#EXTINF:-1,US: News5 WCYB
+http://tvipbr.net:8080/live/gate/gate/19500.ts
+#EXTINF:-1,US: NFL
+http://tvipbr.net:8080/live/gate/gate/18832.ts
+#EXTINF:-1,US: NFL 1 HD
+http://tvipbr.net:8080/live/gate/gate/18831.ts
+#EXTINF:-1,US: NFL 10 HD
+http://tvipbr.net:8080/live/gate/gate/18830.ts
+#EXTINF:-1,US: NFL 11 HD
+http://tvipbr.net:8080/live/gate/gate/18829.ts
+#EXTINF:-1,US: NFL 12 HD
+http://tvipbr.net:8080/live/gate/gate/18828.ts
+#EXTINF:-1,US: NFL 13 HD
+http://tvipbr.net:8080/live/gate/gate/18827.ts
+#EXTINF:-1,US: NFL 14
+http://tvipbr.net:8080/live/gate/gate/18826.ts
+#EXTINF:-1,US: NFL 15
+http://tvipbr.net:8080/live/gate/gate/18825.ts
+#EXTINF:-1,US: NFL 16
+http://tvipbr.net:8080/live/gate/gate/18824.ts
+#EXTINF:-1,US: NFL 2 HD
+http://tvipbr.net:8080/live/gate/gate/18823.ts
+#EXTINF:-1,US: NFL 3 HD
+http://tvipbr.net:8080/live/gate/gate/18822.ts
+#EXTINF:-1,US: NFL 4 HD
+http://tvipbr.net:8080/live/gate/gate/18821.ts
+#EXTINF:-1,US: NFL 5 HD
+http://tvipbr.net:8080/live/gate/gate/18820.ts
+#EXTINF:-1,US: NFL 6 HD
+http://tvipbr.net:8080/live/gate/gate/18819.ts
+#EXTINF:-1,US: NFL 7 HD
+http://tvipbr.net:8080/live/gate/gate/18818.ts
+#EXTINF:-1,US: NFL 8 HD
+http://tvipbr.net:8080/live/gate/gate/18817.ts
+#EXTINF:-1,US: NFL 9 HD
+http://tvipbr.net:8080/live/gate/gate/18816.ts
+#EXTINF:-1,US: NFL LIVE
+http://tvipbr.net:8080/live/gate/gate/18815.ts
+#EXTINF:-1,US: NFL MNF
+http://tvipbr.net:8080/live/gate/gate/18814.ts
+#EXTINF:-1,US: NFL RED ZONE HD
+http://tvipbr.net:8080/live/gate/gate/18813.ts
+#EXTINF:-1,US: NFL SNF
+http://tvipbr.net:8080/live/gate/gate/18812.ts
+#EXTINF:-1,US: NFL TNF
+http://tvipbr.net:8080/live/gate/gate/18811.ts
+#EXTINF:-1,US: NHL 1 FLAMES @ BRUINS
+http://tvipbr.net:8080/live/gate/gate/18845.ts
+#EXTINF:-1,US: NHL 11 COYOTES @ SHARKS
+http://tvipbr.net:8080/live/gate/gate/18843.ts
+#EXTINF:-1,US: NHL 12
+http://tvipbr.net:8080/live/gate/gate/18842.ts
+#EXTINF:-1,US: NHL 13
+http://tvipbr.net:8080/live/gate/gate/18841.ts
+#EXTINF:-1,US: NHL 2 LIGHTNING @ SABRES
+http://tvipbr.net:8080/live/gate/gate/18840.ts
+#EXTINF:-1,US: NHL 4 DEVILS @ FLYERS
+http://tvipbr.net:8080/live/gate/gate/18838.ts
+#EXTINF:-1,US: NHL 5 SENATORS @ PENGUINS
+http://tvipbr.net:8080/live/gate/gate/18837.ts
+#EXTINF:-1,US: NHL 6 KINGS @ HURRICANES
+http://tvipbr.net:8080/live/gate/gate/18836.ts
+#EXTINF:-1,US: NHL 7 DUCKS @ RED WINGS
+http://tvipbr.net:8080/live/gate/gate/18835.ts
+#EXTINF:-1,US: NHL 9 RANGERS @ WILD
+http://tvipbr.net:8080/live/gate/gate/18833.ts
+#EXTINF:-1,US: nickelodeon Junior
+http://tvipbr.net:8080/live/gate/gate/19328.ts
+#EXTINF:-1,US: Nickelodeon Kids HD
+http://tvipbr.net:8080/live/gate/gate/19499.ts
+#EXTINF:-1,US: Nickolodean HD
+http://tvipbr.net:8080/live/gate/gate/19498.ts
+#EXTINF:-1,US: Nursery Rhymes (Baby Songs)
+http://tvipbr.net:8080/live/gate/gate/19497.ts
+#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
+http://tvipbr.net:8080/live/gate/gate/19496.ts
+#EXTINF:-1,US: Offical Olympic Channel HD
+http://tvipbr.net:8080/live/gate/gate/19491.ts
+#EXTINF:-1,US: Olympic Channel HD
+http://tvipbr.net:8080/live/gate/gate/19490.ts
+#EXTINF:-1,US: Orange TV
+http://tvipbr.net:8080/live/gate/gate/19489.ts
+#EXTINF:-1,US: OuterMax FHD
+http://tvipbr.net:8080/live/gate/gate/19488.ts
+#EXTINF:-1,US: OUTSIDE TV HD
+http://tvipbr.net:8080/live/gate/gate/19495.ts
+#EXTINF:-1,US: OWN FHD
+http://tvipbr.net:8080/live/gate/gate/19494.ts
+#EXTINF:-1,US: OWN HD (Oprah Winfrey TV)
+http://tvipbr.net:8080/live/gate/gate/19493.ts
+#EXTINF:-1,US: OXYGEN WEST HD
+http://tvipbr.net:8080/live/gate/gate/19492.ts
+#EXTINF:-1,US: PAC-12 (MOUTAIN) HD
+http://tvipbr.net:8080/live/gate/gate/19487.ts
+#EXTINF:-1,US: PAC-12 (NATIONAL) HD
+http://tvipbr.net:8080/live/gate/gate/19486.ts
+#EXTINF:-1,US: PAC-12 (Washington) HD
+http://tvipbr.net:8080/live/gate/gate/19485.ts
+#EXTINF:-1,US: PAC-12 Los Angeles HD
+http://tvipbr.net:8080/live/gate/gate/19484.ts
+#EXTINF:-1,US: PAC-12 OREGAN HD
+http://tvipbr.net:8080/live/gate/gate/19483.ts
+#EXTINF:-1,US: PAG HD
+http://tvipbr.net:8080/live/gate/gate/19482.ts
+#EXTINF:-1,US: PARAMOUNT
+http://tvipbr.net:8080/live/gate/gate/19481.ts
+#EXTINF:-1,US: PARAMOUNT NETWORK FHD
+http://tvipbr.net:8080/live/gate/gate/19480.ts
+#EXTINF:-1,US: PBS HD
+http://tvipbr.net:8080/live/gate/gate/19479.ts
+#EXTINF:-1,US: PBS Kids HD
+http://tvipbr.net:8080/live/gate/gate/19478.ts
+#EXTINF:-1,US: PEOPLE TV HD
+http://tvipbr.net:8080/live/gate/gate/19477.ts
+#EXTINF:-1,US: PRESS TV
+http://tvipbr.net:8080/live/gate/gate/19476.ts
+#EXTINF:-1,US: Prime Pacific
+http://tvipbr.net:8080/live/gate/gate/19473.ts
+#EXTINF:-1,US: PRISON BREAK
+http://tvipbr.net:8080/live/gate/gate/19475.ts
+#EXTINF:-1,US: PURSUIT CHANNEL
+http://tvipbr.net:8080/live/gate/gate/19474.ts
+#EXTINF:-1,US: QVC Beauty IQ
+http://tvipbr.net:8080/live/gate/gate/19472.ts
+#EXTINF:-1,US: QVC Live
+http://tvipbr.net:8080/live/gate/gate/19471.ts
+#EXTINF:-1,US: RED BULL TV FHD
+http://tvipbr.net:8080/live/gate/gate/19470.ts
+#EXTINF:-1,US: Reelz Channel HD
+http://tvipbr.net:8080/live/gate/gate/19467.ts
+#EXTINF:-1,US: RetroPlex HD
+http://tvipbr.net:8080/live/gate/gate/19466.ts
+#EXTINF:-1,US: RT America HD
+http://tvipbr.net:8080/live/gate/gate/19469.ts
+#EXTINF:-1,US: RT DOCUMENTARY
+http://tvipbr.net:8080/live/gate/gate/19468.ts
+#EXTINF:-1,US: Science HD
+http://tvipbr.net:8080/live/gate/gate/19446.ts
+#EXTINF:-1,US: SHOWTIME (East) FHD
+http://tvipbr.net:8080/live/gate/gate/19465.ts
+#EXTINF:-1,US: SHOWTIME (West) HD
+http://tvipbr.net:8080/live/gate/gate/19464.ts
+#EXTINF:-1,US: ShowTime 1 HD
+http://tvipbr.net:8080/live/gate/gate/19445.ts
+#EXTINF:-1,US: SHOWTIME 2 (East) HD
+http://tvipbr.net:8080/live/gate/gate/19463.ts
+#EXTINF:-1,US: SHOWTIME 2 (West) HD
+http://tvipbr.net:8080/live/gate/gate/19462.ts
+#EXTINF:-1,US: Showtime 2 HD
+http://tvipbr.net:8080/live/gate/gate/19444.ts
+#EXTINF:-1,US: Showtime HDTV
+http://tvipbr.net:8080/live/gate/gate/19443.ts
+#EXTINF:-1,US: Showtime Next HD
+http://tvipbr.net:8080/live/gate/gate/19442.ts
+#EXTINF:-1,US: SHOWTIME SHOWCASE FHD
+http://tvipbr.net:8080/live/gate/gate/19461.ts
+#EXTINF:-1,US: Signature
+http://tvipbr.net:8080/live/gate/gate/19441.ts
+#EXTINF:-1,US: Smile Of A Child
+http://tvipbr.net:8080/live/gate/gate/19440.ts
+#EXTINF:-1,US: SMITHSONIAN CHANNEL HD
+http://tvipbr.net:8080/live/gate/gate/19460.ts
+#EXTINF:-1,US: SNY (match time)
+http://tvipbr.net:8080/live/gate/gate/19459.ts
+#EXTINF:-1,US: SNY HD
+http://tvipbr.net:8080/live/gate/gate/19458.ts
+#EXTINF:-1,US: SONY MOVIE CHANNEL HD
+http://tvipbr.net:8080/live/gate/gate/19457.ts
+#EXTINF:-1,US: Southeastern Channel
+http://tvipbr.net:8080/live/gate/gate/19439.ts
+#EXTINF:-1,US: SPIKE HD
+http://tvipbr.net:8080/live/gate/gate/19456.ts
+#EXTINF:-1,US: Sports Net World HD
+http://tvipbr.net:8080/live/gate/gate/19438.ts
+#EXTINF:-1,US: SPORTS NETWORK (NY) HD
+http://tvipbr.net:8080/live/gate/gate/19455.ts
+#EXTINF:-1,US: Sports Night
+http://tvipbr.net:8080/live/gate/gate/19437.ts
+#EXTINF:-1,US: SportsNet 360 HD
+http://tvipbr.net:8080/live/gate/gate/19436.ts
+#EXTINF:-1,US: SPORTSNET LA (Los Angeles) HD
+http://tvipbr.net:8080/live/gate/gate/19454.ts
+#EXTINF:-1,US: SportsNet ONE HD
+http://tvipbr.net:8080/live/gate/gate/19435.ts
+#EXTINF:-1,US: SPORTSNET WORLD
+http://tvipbr.net:8080/live/gate/gate/19453.ts
+#EXTINF:-1,US: STADIUM 1 HD
+http://tvipbr.net:8080/live/gate/gate/19452.ts
+#EXTINF:-1,US: STADIUM 2 HD
+http://tvipbr.net:8080/live/gate/gate/19451.ts
+#EXTINF:-1,US: STADIUM 3 HD
+http://tvipbr.net:8080/live/gate/gate/19450.ts
+#EXTINF:-1,US: Starz Black HD
+http://tvipbr.net:8080/live/gate/gate/19434.ts
+#EXTINF:-1,US: Starz Cinema East HD
+http://tvipbr.net:8080/live/gate/gate/19433.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://tvipbr.net:8080/live/gate/gate/19432.ts
+#EXTINF:-1,US: Starz Cinema West HD
+http://tvipbr.net:8080/live/gate/gate/19431.ts
+#EXTINF:-1,US: Starz East HD
+http://tvipbr.net:8080/live/gate/gate/19430.ts
+#EXTINF:-1,US: Starz Edge FHD
+http://tvipbr.net:8080/live/gate/gate/19429.ts
+#EXTINF:-1,US: Starz Edge West HD
+http://tvipbr.net:8080/live/gate/gate/19428.ts
+#EXTINF:-1,US: Starz Encore 2 East HD
+http://tvipbr.net:8080/live/gate/gate/19427.ts
+#EXTINF:-1,US: Starz Encore Action
+http://tvipbr.net:8080/live/gate/gate/19426.ts
+#EXTINF:-1,US: Starz Encore Black HD
+http://tvipbr.net:8080/live/gate/gate/19425.ts
+#EXTINF:-1,US: Starz Encore Classic FHD
+http://tvipbr.net:8080/live/gate/gate/19424.ts
+#EXTINF:-1,US: Starz Encore East HD
+http://tvipbr.net:8080/live/gate/gate/19423.ts
+#EXTINF:-1,US: Starz Encore Family FHD
+http://tvipbr.net:8080/live/gate/gate/19422.ts
+#EXTINF:-1,US: Starz Encore Suspense HD
+http://tvipbr.net:8080/live/gate/gate/19421.ts
+#EXTINF:-1,US: Starz Encore West FHD
+http://tvipbr.net:8080/live/gate/gate/19420.ts
+#EXTINF:-1,US: Starz Family HD
+http://tvipbr.net:8080/live/gate/gate/19419.ts
+#EXTINF:-1,US: Starz Kids & Family 24/7 HD
+http://tvipbr.net:8080/live/gate/gate/19418.ts
+#EXTINF:-1,US: STARZ SUSPENSE FHD
+http://tvipbr.net:8080/live/gate/gate/19449.ts
+#EXTINF:-1,US: Starz West HD
+http://tvipbr.net:8080/live/gate/gate/19417.ts
+#EXTINF:-1,US: STARZ WESTERNS HD
+http://tvipbr.net:8080/live/gate/gate/19448.ts
+#EXTINF:-1,US: Staz West HD
+http://tvipbr.net:8080/live/gate/gate/19416.ts
+#EXTINF:-1,US: SYFY (West) HD
+http://tvipbr.net:8080/live/gate/gate/19447.ts
+#EXTINF:-1,US: TBS (West) HD
+http://tvipbr.net:8080/live/gate/gate/19415.ts
+#EXTINF:-1,US: TEEN NICK HD
+http://tvipbr.net:8080/live/gate/gate/19414.ts
+#EXTINF:-1,US: Telemundo (Las Vegas)
+http://tvipbr.net:8080/live/gate/gate/19393.ts
+#EXTINF:-1,US: Telemundo 47 HD
+http://tvipbr.net:8080/live/gate/gate/19392.ts
+#EXTINF:-1,US: Telemundo Boston
+http://tvipbr.net:8080/live/gate/gate/19391.ts
+#EXTINF:-1,US: Telemundo Chicago
+http://tvipbr.net:8080/live/gate/gate/19390.ts
+#EXTINF:-1,US: Telemundo Denver
+http://tvipbr.net:8080/live/gate/gate/19389.ts
+#EXTINF:-1,US: Telemundo Fresno
+http://tvipbr.net:8080/live/gate/gate/19388.ts
+#EXTINF:-1,US: Telemundo New York
+http://tvipbr.net:8080/live/gate/gate/19387.ts
+#EXTINF:-1,US: Telemundo Phoenix
+http://tvipbr.net:8080/live/gate/gate/19386.ts
+#EXTINF:-1,US: Telemundo San Antonio
+http://tvipbr.net:8080/live/gate/gate/19385.ts
+#EXTINF:-1,US: Telemundo San Francisco
+http://tvipbr.net:8080/live/gate/gate/19384.ts
+#EXTINF:-1,US: Telemundo Tucson
+http://tvipbr.net:8080/live/gate/gate/19383.ts
+#EXTINF:-1,US: TELEXITOS HD
+http://tvipbr.net:8080/live/gate/gate/19413.ts
+#EXTINF:-1,US: Temple University TV
+http://tvipbr.net:8080/live/gate/gate/19382.ts
+#EXTINF:-1,US: Texas Student TV
+http://tvipbr.net:8080/live/gate/gate/19381.ts
+#EXTINF:-1,US: THE BLACKLIST
+http://tvipbr.net:8080/live/gate/gate/19412.ts
+#EXTINF:-1,US: THE BLAZE HD
+http://tvipbr.net:8080/live/gate/gate/19411.ts
+#EXTINF:-1,US: The Cowboy Channel (RFD-TV)
+http://tvipbr.net:8080/live/gate/gate/19380.ts
+#EXTINF:-1,US: THE JETSONS
+http://tvipbr.net:8080/live/gate/gate/19410.ts
+#EXTINF:-1,US: THE PUNISHER
+http://tvipbr.net:8080/live/gate/gate/19409.ts
+#EXTINF:-1,US: THE SIMPSON
+http://tvipbr.net:8080/live/gate/gate/19408.ts
+#EXTINF:-1,US: THE SPORTSMAN CHANNEL
+http://tvipbr.net:8080/live/gate/gate/19407.ts
+#EXTINF:-1,US: THE WORD NETWORK HD
+http://tvipbr.net:8080/live/gate/gate/19406.ts
+#EXTINF:-1,US: Thriller Max
+http://tvipbr.net:8080/live/gate/gate/19379.ts
+#EXTINF:-1,US: TLC (West) HD
+http://tvipbr.net:8080/live/gate/gate/19405.ts
+#EXTINF:-1,US: TNT (East) HD
+http://tvipbr.net:8080/live/gate/gate/19404.ts
+#EXTINF:-1,US: TNT (West) HD
+http://tvipbr.net:8080/live/gate/gate/19403.ts
+#EXTINF:-1,US: TNT Pacific
+http://tvipbr.net:8080/live/gate/gate/19402.ts
+#EXTINF:-1,US: TOM & JERRY 24/7
+http://tvipbr.net:8080/live/gate/gate/19401.ts
+#EXTINF:-1,US: Toon Kids HD
+http://tvipbr.net:8080/live/gate/gate/19378.ts
+#EXTINF:-1,US: Toonami Aftermath
+http://tvipbr.net:8080/live/gate/gate/19377.ts
+#EXTINF:-1,US: TRAVEL CHANNEL (West) HD
+http://tvipbr.net:8080/live/gate/gate/19400.ts
+#EXTINF:-1,US: TRT World FHD
+http://tvipbr.net:8080/live/gate/gate/19399.ts
+#EXTINF:-1,US: TRU TV (West) HD
+http://tvipbr.net:8080/live/gate/gate/19398.ts
+#EXTINF:-1,US: TSC
+http://tvipbr.net:8080/live/gate/gate/19397.ts
+#EXTINF:-1,US: TSN 2
+http://tvipbr.net:8080/live/gate/gate/19396.ts
+#EXTINF:-1,US: TV Land EAST
+http://tvipbr.net:8080/live/gate/gate/19394.ts
+#EXTINF:-1,US: TV LAND HD
+http://tvipbr.net:8080/live/gate/gate/19395.ts
+#EXTINF:-1,US: UC TV
+http://tvipbr.net:8080/live/gate/gate/19376.ts
+#EXTINF:-1,US: UFC NETWORK HD
+http://tvipbr.net:8080/live/gate/gate/19375.ts
+#EXTINF:-1,US: UFC TV HD
+http://tvipbr.net:8080/live/gate/gate/19374.ts
+#EXTINF:-1,US: UNIVERSO HD
+http://tvipbr.net:8080/live/gate/gate/19373.ts
+#EXTINF:-1,US: Univision Deportes HD
+http://tvipbr.net:8080/live/gate/gate/19371.ts
+#EXTINF:-1,US: Univision Los Angeles FHD
+http://tvipbr.net:8080/live/gate/gate/19370.ts
+#EXTINF:-1,US: Velocity Channel HD
+http://tvipbr.net:8080/live/gate/gate/19366.ts
+#EXTINF:-1,US: Versus NBA
+http://tvipbr.net:8080/live/gate/gate/19365.ts
+#EXTINF:-1,US: VEVO FHD
+http://tvipbr.net:8080/live/gate/gate/19369.ts
+#EXTINF:-1,US: VH1 (East) HD
+http://tvipbr.net:8080/live/gate/gate/19368.ts
+#EXTINF:-1,US: VH1 (West)
+http://tvipbr.net:8080/live/gate/gate/19367.ts
+#EXTINF:-1,US: VoA
+http://tvipbr.net:8080/live/gate/gate/19364.ts
+#EXTINF:-1,US: Voice of America
+http://tvipbr.net:8080/live/gate/gate/19363.ts
+#EXTINF:-1,US: W9 Breaking News
+http://tvipbr.net:8080/live/gate/gate/19346.ts
+#EXTINF:-1,US: WAPA
+http://tvipbr.net:8080/live/gate/gate/19362.ts
+#EXTINF:-1,US: WAPA 2
+http://tvipbr.net:8080/live/gate/gate/19361.ts
+#EXTINF:-1,US: WBTV News
+http://tvipbr.net:8080/live/gate/gate/19360.ts
+#EXTINF:-1,US: WCBD-TV NEWS 2 CHARLESTON
+http://tvipbr.net:8080/live/gate/gate/19359.ts
+#EXTINF:-1,US: WCCB (Charlotte)
+http://tvipbr.net:8080/live/gate/gate/19358.ts
+#EXTINF:-1,US: WCCB News Rising
+http://tvipbr.net:8080/live/gate/gate/19357.ts
+#EXTINF:-1,US: WCNC Breaking News
+http://tvipbr.net:8080/live/gate/gate/19356.ts
+#EXTINF:-1,US: WDEF NEWS 12 CHATTANOOGA
+http://tvipbr.net:8080/live/gate/gate/19355.ts
+#EXTINF:-1,US: WE'RE CHRISTIAN FAMILY HD
+http://tvipbr.net:8080/live/gate/gate/19354.ts
+#EXTINF:-1,US: WEATHER CHANNEL HD
+http://tvipbr.net:8080/live/gate/gate/19353.ts
+#EXTINF:-1,US: WEATHER NATION
+http://tvipbr.net:8080/live/gate/gate/19352.ts
+#EXTINF:-1,US: WGN (Chicago) HD
+http://tvipbr.net:8080/live/gate/gate/19351.ts
+#EXTINF:-1,US: WGN News
+http://tvipbr.net:8080/live/gate/gate/19350.ts
+#EXTINF:-1,US: WGN News Chicago
+http://tvipbr.net:8080/live/gate/gate/19349.ts
+#EXTINF:-1,US: WGN SPORT
+http://tvipbr.net:8080/live/gate/gate/19348.ts
+#EXTINF:-1,US: Wild HD
+http://tvipbr.net:8080/live/gate/gate/19341.ts
+#EXTINF:-1,US: Willow Cricket HD
+http://tvipbr.net:8080/live/gate/gate/19340.ts
+#EXTINF:-1,US: WTTG-TV FOX 5 WASHINGTON
+http://tvipbr.net:8080/live/gate/gate/19347.ts
+#EXTINF:-1,US: WVIT 30 News (Hartford)
+http://tvipbr.net:8080/live/gate/gate/19345.ts
+#EXTINF:-1,US: WWE 24/7 FHD
+http://tvipbr.net:8080/live/gate/gate/19344.ts
+#EXTINF:-1,US: WWE PPV
+http://tvipbr.net:8080/live/gate/gate/19343.ts
+#EXTINF:-1,US: WXXV 25 GULFPORT (MS)
+http://tvipbr.net:8080/live/gate/gate/19342.ts
+#EXTINF:-1,US: Yes TV
+http://tvipbr.net:8080/live/gate/gate/19336.ts
+#EXTINF:-1,DK | Family | Emma And Santa Claus:the Quest For The Elf Queen's Heart(2015)
+http://uk.msnpanel.pw:8080/movie/J6PjPJdrvK/H4QdMN55Nr/6967.mp4
+#EXTINF:-1,Exodus: Dei E Re 3d It
+http://sporti.tv:6500/movie/fabo6nXpuq/Is3PISvHp7/5531.mkv
+#EXTINF:-1,Focus: Niente è Come Sembra It
+http://sporti.tv:6500/movie/fabo6nXpuq/Is3PISvHp7/5544.mkv
+#EXTINF:-1,DK | Family | Emma And Santa Claus:the Quest For The Elf Queen's Heart(2015)
+http://185.236.229.9:8080/movie/47ouxvhk4i/7hc4ptxq4/6967.mp4
